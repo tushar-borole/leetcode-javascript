@@ -1,4 +1,5 @@
 # leetcode-javascript
+
 ![LogoMakr_1PDRDt_1](LogoMakr_1PDRDt_1.png)
 
 This contain solution of leetcode in javascript
@@ -12,3 +13,4 @@ This contain solution of leetcode in javascript
 | 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)   | [Solution](self_dividing_numbers.js)  | 68 ms   | 38 MB   |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)     | [Solution](sort_array_by_parity.js)   | 84 ms   | 37.3 MB |
 | 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [Solution](robot_return_to_origin.js) | 80 ms   | 41.3 MB |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)       | [Solution](reverse_linked_list.js)    | 64 ms   | 35 MB   |
