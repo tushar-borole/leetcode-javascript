@@ -20,10 +20,6 @@
  * @return {ListNode}
  */
 
-function ListNode(val) {
-  this.val = val;
-  this.next = null;
-}
 const reverseList = function(head) {
   if (!head || !head.next) {
     return head;
