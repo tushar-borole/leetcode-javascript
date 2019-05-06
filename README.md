@@ -14,4 +14,5 @@ This contain solution of leetcode in javascript
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)     | [Solution](sort_array_by_parity.js)                                                            | 84 ms            | 37.3 MB            |
 | 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [Solution](robot_return_to_origin.js)                                                          | 80 ms            | 41.3 MB            |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)       | [Iterative](reverse_linked_list_iterative.js)<br>[Recursive](reverse_linked_list_recursive.js) | 64 ms <br> 64 ms | 35 MB <br> 35.4 MB |
+| 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                           | [Solution](fizz_buzz.js)                                                                       | 72 ms            | 37.4 MB            |
 
