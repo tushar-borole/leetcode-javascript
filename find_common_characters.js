@@ -27,16 +27,17 @@
  * @return {string[]}
  */
 var commonChars = function(A) {
-  let formattedArray = A.map(val => val.split("")); //?
+  let formattedArray = A.map(val => val.split(""));
   let start = formattedArray[0];
   const commonCharacter = [];
   for (let val of start) {
     const foundArray = [];
     for (let i = 1; i < formattedArray.length; i++) {
-      const index = formattedArray[i].indexOf(val); //?
+      const index = formattedArray[i].indexOf(val);
       const foundStatus = index > -1;
       foundArray.push(foundStatus);
       if (foundStatus) {
+        // this is done so that on next itteration, character in not searchable
         formattedArray[i][index] = "found";
       }
     }
