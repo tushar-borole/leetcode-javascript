@@ -17,4 +17,4 @@ This contain solution of leetcode in javascript
 | 412  | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                 | [Solution](fizz_buzz.js)                                                                       | 72 ms            | 37.4 MB              |
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/)       | [Solution](find_common_characters.js)                                                          | 108 ms           | 38.1 MB              |
 | 876  | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution 1](middle_of_the_linked_list.js) <br>[Solution 2](middle_of_the_linked_list_2.js)    | 48 ms <br> 44ms  | 33.9 MB <br> 33.8 MB |
-
+| 126  | [Single Number](https://leetcode.com/problems/single-number/)                         | [Solution](single_number.js)                                                                   | 60 ms            | 37.1 MB              |
