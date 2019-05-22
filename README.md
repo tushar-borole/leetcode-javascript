@@ -23,10 +23,4 @@ This contain solution of leetcode in javascript
 | 237  | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)                         | [Solution](delete_node_linked_list.js)                                                         | 60 ms            | 35.6 MB              |
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                       | [Solution](valid_anagram.js)                                                                   | 56 ms            | 37.8 MB              |
 | 448  | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Solution](find_all_numbers_disappeared_in_an_array.js)                                        | 6576 ms          | 45.7 MB              |
-
-
-## Medium
-
-| # | Title | Solution | Runtime | Memory |
-|:--|:------|:---------|:--------|:-------|
-|   |       |          |         |        |
+| 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)                                              | [Solution](contains_duplicate.js)                                                              | 96 ms            | 42.7 MB              |
