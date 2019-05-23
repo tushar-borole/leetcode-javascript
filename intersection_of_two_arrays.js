@@ -46,4 +46,4 @@ let intersection = function(nums1, nums2) {
   return output;
 };
 
-intersection([1, 2, 1, 3], [1, 2]); //?
+intersection([1, 2, 1, 3, 4], [1, 2, 4]); //?
