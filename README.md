@@ -2,9 +2,8 @@
 
 ![LogoMakr_1PDRDt_1](LogoMakr_1PDRDt_1.png)
 
-This contain solution of leetcode in javascript
+#### This contain solution of leetcode in javascript
 
-## Easy
 
 | #    | Title                                                                                                               | Solution                                                                                                  | Runtime          | Memory               | Difficulty |
 |:-----|:--------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------|:-----------------|:---------------------|:-----------|
@@ -26,4 +25,6 @@ This contain solution of leetcode in javascript
 | 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)                                              | [Solution](contains_duplicate.js)                                                                         | 96 ms            | 42.7 MB              | Easy       |
 | 219  | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)                                       | [Solution](contains_duplicate_II.js)                                                                      | 72 ms            | 42.4 MB              | Easy       |
 | 349  | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)                             | [Solution 1](intersection_of_two_arrays.js)   <br> [Solution 2](intersection_of_two_arrays_solution_2.js) | 56 ms            | 35.8 MB              | Easy       |
+| 350  | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)                       | [Solution](intersection_of_two_arrays_II.js)                                                              | 84 ms            | 38.3 MB              | Easy       |
 | 912  | [Sort an Array](https://leetcode.com/problems/sort-an-array/)                                                       | [Solution](sort_an_array.js)                                                                              | 7176 ms          | 38.9 MB              | Medium     |
+
