@@ -34,7 +34,7 @@ var search = function(nums, target) {
   let midValue = null;
   let end = nums.length - 1;
   while (target !== midValue) {
-    let mid = start + Math.floor(end - start / 2);
+    let mid = Math.floor(end + start / 2);
     midValue = nums[mid]; //?
     if (target === midValue) {
       return mid; //?;
@@ -46,4 +46,4 @@ var search = function(nums, target) {
   }
 };
 
-search([1, 4, 7, 8, 9], 4); //?
+search([1, 4, 7, 8, 9], 9); //?
