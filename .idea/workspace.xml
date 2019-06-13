@@ -1,0 +1,1012 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="1047. Remove All Adjacent Duplicates In String">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <ignored mask=".idea" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monotonic_array.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="39" selection-start-line="39" selection-end-line="55" selection-end-column="2" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="631">
+                <caret line="44" column="4" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>toLo</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/find_common_characters.js" />
+        <option value="$PROJECT_DIR$/middle_of_the_linked_list.js" />
+        <option value="$PROJECT_DIR$/middle_of_the_linked_list_2.js" />
+        <option value="$PROJECT_DIR$/single_number.js" />
+        <option value="$PROJECT_DIR$/max_consecutive_ones.js" />
+        <option value="$PROJECT_DIR$/max_consecutive_ones_2.js" />
+        <option value="$PROJECT_DIR$/add_digits.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/delete_node_linked_list.js" />
+        <option value="$PROJECT_DIR$/valid_anagram_2.js" />
+        <option value="$PROJECT_DIR$/valid_anagram.js" />
+        <option value="$PROJECT_DIR$/find_all_numbers_disappeared_in_an_array.js" />
+        <option value="$PROJECT_DIR$/sort_characters_by_frequency.js" />
+        <option value="$PROJECT_DIR$/contains_duplicate.js" />
+        <option value="$PROJECT_DIR$/contains_duplicate_II.js" />
+        <option value="$PROJECT_DIR$/sort_an_array.js" />
+        <option value="$PROJECT_DIR$/design_linked_list.js" />
+        <option value="$PROJECT_DIR$/intersection_of_two_arrays.js" />
+        <option value="$PROJECT_DIR$/intersection_of_two_arrays_solution_2.js" />
+        <option value="$PROJECT_DIR$/intersection_of_two_arrays_II.js" />
+        <option value="$PROJECT_DIR$/intersection_of_two_arrays_II_solution2.js" />
+        <option value="$PROJECT_DIR$/squares_of_a_sorted_array.js" />
+        <option value="$PROJECT_DIR$/permutation_in_string.js" />
+        <option value="$PROJECT_DIR$/rec_test.js" />
+        <option value="$PROJECT_DIR$/permutations.js" />
+        <option value="$PROJECT_DIR$/minimum_index_sum_of_two_lists.js" />
+        <option value="$PROJECT_DIR$/4Sum.js" />
+        <option value="$PROJECT_DIR$/remove_duplicates_from_sorted_array.js" />
+        <option value="$PROJECT_DIR$/same_tree.js" />
+        <option value="$PROJECT_DIR$/maximum_length_of_repeated_subarray.js" />
+        <option value="$PROJECT_DIR$/wiggle_sort_II.js" />
+        <option value="$PROJECT_DIR$/binary_search.js" />
+        <option value="$PROJECT_DIR$/binary_search_recursion.js" />
+        <option value="$PROJECT_DIR$/search_in_a_binary_search_tree.js" />
+        <option value="$PROJECT_DIR$/maximum_depth_of_binary_tree.js" />
+        <option value="$PROJECT_DIR$/symmetric_tree.js" />
+        <option value="$PROJECT_DIR$/minimum_depth_of_binary_tree.js" />
+        <option value="$PROJECT_DIR$/test.js" />
+        <option value="$PROJECT_DIR$/merge_two_sorted_lists.js" />
+        <option value="$PROJECT_DIR$/array_partition_I.js" />
+        <option value="$PROJECT_DIR$/shortest_distance_to_a_character.js" />
+        <option value="$PROJECT_DIR$/number_complement.js" />
+        <option value="$PROJECT_DIR$/merge_two_binary_trees.js" />
+        <option value="$PROJECT_DIR$/breadth_first_traverse.js" />
+        <option value="$PROJECT_DIR$/missing_number.js" />
+        <option value="$PROJECT_DIR$/remove_all_adjacent_duplicates_in_string.js" />
+        <option value="$PROJECT_DIR$/N-repeated-element.js" />
+        <option value="$PROJECT_DIR$/valid_palindrome.js" />
+        <option value="$PROJECT_DIR$/peak_index_in_a_mountain_array.js" />
+        <option value="$PROJECT_DIR$/monotonic_array.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JQLSearcherManager">
+    <searchers>
+      <JQLSearcher alias="Assigned to me" jql="assignee = currentUser()" />
+    </searchers>
+  </component>
+  <component name="JiraServerManager">
+    <selected>-1</selected>
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="843" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="leetcode-javascript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-javascript" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="PluginDummyText.Genre" value="latin" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TF_FMT" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="MarkdownNavigator.Settings.Editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="run" type="NodeJSConfigurationType" path-to-js-file="same_tree.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="" />
+      <created>1556602833969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556602833969</updated>
+      <workItem from="1556602835507" duration="1718000" />
+      <workItem from="1556682906204" duration="2190000" />
+      <workItem from="1556767292466" duration="2422000" />
+      <workItem from="1556856410546" duration="2265000" />
+      <workItem from="1557080070919" duration="11355000" />
+      <workItem from="1557199365093" duration="3232000" />
+      <workItem from="1558235567476" duration="18263000" />
+      <workItem from="1558410195859" duration="2325000" />
+      <workItem from="1558490744017" duration="3903000" />
+      <workItem from="1558577352369" duration="2748000" />
+      <workItem from="1559188679762" duration="1834000" />
+      <workItem from="1559191122078" duration="641000" />
+      <workItem from="1559273651984" duration="2675000" />
+      <workItem from="1559402883792" duration="18926000" />
+      <workItem from="1559616673371" duration="5224000" />
+      <workItem from="1559705223663" duration="3715000" />
+      <workItem from="1559787796996" duration="4530000" />
+      <workItem from="1559859257859" duration="160000" />
+      <workItem from="1559869593814" duration="415000" />
+      <workItem from="1559870192845" duration="65000" />
+      <workItem from="1559870498840" duration="8844000" />
+      <workItem from="1560043732849" duration="574000" />
+      <workItem from="1560045187218" duration="3810000" />
+      <workItem from="1560112953369" duration="9552000" />
+      <workItem from="1560225094393" duration="3330000" />
+      <workItem from="1560278207242" duration="9000" />
+      <workItem from="1560315686517" duration="5413000" />
+      <workItem from="1560394721637" duration="47000" />
+    </task>
+    <task id="LOCAL-00001" summary="Lower Case added">
+      <created>1556603809048</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556603809048</updated>
+    </task>
+    <task id="LOCAL-00002" summary="git ignore added">
+      <created>1556603981257</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556603981257</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Project Configuration File added">
+      <created>1556604356128</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1556604356128</updated>
+    </task>
+    <task id="LOCAL-00004" summary="git ignore files changed">
+      <created>1556604396143</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1556604396143</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fibonacci series added">
+      <created>1556684407626</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1556684407626</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Document Formatted">
+      <created>1556684491968</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1556684491968</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Self Dividing Number added">
+      <created>1556768240387</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1556768240387</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Readme added">
+      <created>1556770244995</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1556770244995</updated>
+    </task>
+    <task id="LOCAL-00009" summary="]sort by parity added">
+      <created>1556776889897</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1556776889897</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Robot return orgin added">
+      <created>1556859243955</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1556859243955</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Logo added">
+      <created>1557080701986</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1557080701986</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Reverse linked list added">
+      <created>1557102425167</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1557102425169</updated>
+    </task>
+    <task id="LOCAL-00013" summary="reverse linked list added">
+      <created>1557120511261</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1557120511261</updated>
+    </task>
+    <task id="LOCAL-00014" summary="recursive solution">
+      <created>1557120652863</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1557120652863</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Fizz Buzz Added">
+      <created>1557121613747</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1557121613747</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Find common character in array of string">
+      <created>1558241744067</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1558241744068</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Middle of linked list solution added">
+      <created>1558245619380</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1558245619380</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Another solution for middle of linked list added">
+      <created>1558245972740</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1558245972740</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Single Number Solution added">
+      <created>1558321720972</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1558321720979</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Max Conscative number added">
+      <created>1558322944285</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1558322944285</updated>
+    </task>
+    <task id="LOCAL-00021" summary="another solution added">
+      <created>1558323582086</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1558323582086</updated>
+    </task>
+    <task id="LOCAL-00022" summary="add digit">
+      <created>1558325265838</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1558325265838</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Robot return orgin added">
+      <created>1558325318196</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1558325318196</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Two more solution added">
+      <created>1558330487185</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1558330487185</updated>
+    </task>
+    <task id="LOCAL-00025" summary="another solution added">
+      <created>1558330842387</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1558330842387</updated>
+    </task>
+    <task id="LOCAL-00026" summary="find disapeared numebr in array">
+      <created>1558413693875</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1558413693875</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Contains duplicate added">
+      <created>1558491323718</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1558491323718</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Contains duplicate 2 added">
+      <created>1558493498069</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1558493498069</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Sort added">
+      <created>1558496012019</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1558496012019</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Intersection of two array added">
+      <created>1558578431650</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1558578431650</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Second solution added">
+      <created>1558579004576</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1558579004576</updated>
+    </task>
+    <task id="LOCAL-00032" summary="intersection of two array added">
+      <created>1559190154127</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1559190154127</updated>
+    </task>
+    <task id="LOCAL-00033" summary="another solution added">
+      <created>1559192154774</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1559192154774</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Squares of a Sorted Array added">
+      <created>1559274374644</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1559274374644</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Minimum Index Sum of Two Lists">
+      <created>1559453588505</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1559453588505</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Remove Duplicates from Sorted Array">
+      <created>1559455717786</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1559455717786</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Same tree">
+      <created>1559522403524</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1559522403525</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Binary search added">
+      <created>1559625729734</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1559625729734</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Binary search added">
+      <created>1559626807013</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1559626807013</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Readme changed">
+      <created>1559627039050</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1559627039050</updated>
+    </task>
+    <task id="LOCAL-00041" summary="search in binary tree added">
+      <created>1559709516403</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1559709516403</updated>
+    </task>
+    <task id="LOCAL-00042" summary="shorted distance">
+      <created>1559883062850</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1559883062850</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Readmi changed">
+      <created>1559884273505</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1559884273506</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Number Complement added">
+      <created>1560045352752</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1560045352752</updated>
+    </task>
+    <task id="LOCAL-00045" summary="merge two binary tree">
+      <created>1560117477497</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1560117477497</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Missing number added">
+      <created>1560119043612</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1560119043612</updated>
+    </task>
+    <task id="LOCAL-00047" summary="1047. Remove All Adjacent Duplicates In String">
+      <created>1560133301894</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1560133301894</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Valid Palindrome">
+      <created>1560230019977</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1560230019977</updated>
+    </task>
+    <task id="LOCAL-00049" summary="896. Monotonic Array">
+      <created>1560321149950</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1560321149950</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="120185000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3618582" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3291536" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39916405" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" />
+      <window_info anchor="bottom" id="Quokka" order="8" weight="0.31138977" />
+      <window_info anchor="bottom" id="JIRA" order="9" />
+      <window_info anchor="bottom" id="AWS Tail" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="13" visible="true" weight="0.17136887" />
+      <window_info anchor="bottom" id="Messages" order="14" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="leetcode" order="3" side_tool="true" />
+      <window_info anchor="right" id="Google Cloud Storage" order="4" show_stripe_button="false" />
+      <window_info anchor="right" id="Serverless Framework GUI" order="5" />
+      <window_info anchor="right" id="Call Graph" order="6" side_tool="true" />
+      <window_info anchor="right" id="Mongo Explorer" order="7" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
+    <MESSAGE value="Robot return orgin added" />
+    <MESSAGE value="Two more solution added" />
+    <MESSAGE value="find disapeared numebr in array" />
+    <MESSAGE value="Contains duplicate added" />
+    <MESSAGE value="Contains duplicate 2 added" />
+    <MESSAGE value="Sort added" />
+    <MESSAGE value="Intersection of two array added" />
+    <MESSAGE value="Second solution added" />
+    <MESSAGE value="intersection of two array added" />
+    <MESSAGE value="another solution added" />
+    <MESSAGE value="Squares of a Sorted Array added" />
+    <MESSAGE value="Minimum Index Sum of Two Lists" />
+    <MESSAGE value="Remove Duplicates from Sorted Array" />
+    <MESSAGE value="Same tree" />
+    <MESSAGE value="Binary search added" />
+    <MESSAGE value="Readme changed" />
+    <MESSAGE value="search in binary tree added" />
+    <MESSAGE value="shorted distance" />
+    <MESSAGE value="Readmi changed" />
+    <MESSAGE value="Number Complement added" />
+    <MESSAGE value="merge two binary tree" />
+    <MESSAGE value="Missing number added" />
+    <MESSAGE value="1047. Remove All Adjacent Duplicates In String" />
+    <MESSAGE value="Valid Palindrome" />
+    <MESSAGE value="896. Monotonic Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="896. Monotonic Array" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/reverse_linked_list_recursive.js</url>
+          <line>26</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/reverse_linked_list_recursive.js</url>
+          <line>28</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/reverse_linked_list_recursive.js</url>
+          <line>24</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/reverse_linked_list_recursive.js</url>
+          <line>27</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/move_zeroes.js</url>
+          <line>26</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/middle_of_the_linked_list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="39" selection-start-line="39" selection-end-line="51" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single_number.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="37" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/max_consecutive_ones.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="21" column="20" lean-forward="true" selection-end-line="38" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/max_consecutive_ones_2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_digits.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="21" selection-start-line="21" selection-end-line="35" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delete_node_linked_list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="32" column="3" lean-forward="true" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valid_anagram_2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="25" selection-start-line="25" selection-end-line="36" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valid_anagram.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sort_characters_by_frequency.js" />
+    <entry file="file://$PROJECT_DIR$/contains_duplicate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="7" lean-forward="true" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/find_all_numbers_disappeared_in_an_array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contains_duplicate_II.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_linked_list.js" />
+    <entry file="file://$PROJECT_DIR$/intersection_of_two_arrays.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="46" column="2" selection-start-line="46" selection-start-column="2" selection-end-line="46" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intersection_of_two_arrays_solution_2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intersection_of_two_arrays_II.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sort_an_array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="28" selection-start-line="28" selection-end-line="40" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intersection_of_two_arrays_solution2.js" />
+    <entry file="file://$PROJECT_DIR$/intersection_of_two_arrays_II_solution2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/move_zeroes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/permutations.js" />
+    <entry file="file://$PROJECT_DIR$/permutation_in_string.js" />
+    <entry file="file://$PROJECT_DIR$/squares_of_a_sorted_array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="28" selection-start-line="28" selection-end-line="32" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rec_test.js" />
+    <entry file="file://$PROJECT_DIR$/minimum_index_sum_of_two_lists.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="29" selection-start-line="29" selection-end-line="55" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4Sum.js" />
+    <entry file="file://$PROJECT_DIR$/remove_duplicates_from_sorted_array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/same_tree.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="64" column="3" lean-forward="true" selection-start-line="64" selection-start-column="3" selection-end-line="64" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maximum_length_of_repeated_subarray.js" />
+    <entry file="file://$PROJECT_DIR$/wiggle_sort_II.js" />
+    <entry file="file://$PROJECT_DIR$/search_in_a_binary_search_tree.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="31" selection-start-line="11" selection-start-column="3" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maximum_depth_of_binary_tree.js" />
+    <entry file="file://$PROJECT_DIR$/symmetric_tree.js" />
+    <entry file="file://$PROJECT_DIR$/minimum_depth_of_binary_tree.js" />
+    <entry file="file://$PROJECT_DIR$/test.js" />
+    <entry file="file://$PROJECT_DIR$/merge_two_sorted_lists.js" />
+    <entry file="file://$PROJECT_DIR$/shortest_distance_to_a_character.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="23" column="40" lean-forward="true" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array_partition_I.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="22" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/number_complement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binary_search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="44" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binary_search_recursion.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/merge_two_binary_trees.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/breadth_first_traverse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/N-repeated-element.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remove_all_adjacent_duplicates_in_string.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/missing_number.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/peak_index_in_a_mountain_array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valid_palindrome.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monotonic_array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="39" selection-start-line="39" selection-end-line="55" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="631">
+            <caret line="44" column="4" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="MarkdownNavigator.LinkMap.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
