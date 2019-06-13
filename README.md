@@ -41,5 +41,6 @@
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                  | [Solution](valid_palindrome.js)                                                                               | 76 ms            | 41 MB                | Easy       |
 | 896  | [Monotonic Array](https://leetcode.com/problems/monotonic-array/)                                                    | [Solution](monotonic_array.js)                                                                                | 68 ms            | 40.5 MB              | Easy       |
 | 912  | [Sort an Array](https://leetcode.com/problems/sort-an-array/)                                                        | [Solution](sort_an_array.js)                                                                                  | 7176 ms          | 38.9 MB              | Medium     |
+| 701  | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)                  | [Solution](insert_into_a_binary_search_tree.js)                                                               | 112 ms           | 41.9 MB              | Medium     |
 
-test1
+
