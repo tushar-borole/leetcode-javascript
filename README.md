@@ -43,5 +43,6 @@
 | 563  | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)                                                  | [binary_tree_tilt.js](binary_tree_tilt.js)                                                                    | 68 ms            | 37.7 MB              | Easy       |
 | 912  | [Sort an Array](https://leetcode.com/problems/sort-an-array/)                                                        | [Solution](sort_an_array.js)                                                                                  | 7176 ms          | 38.9 MB              | Medium     |
 | 701  | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)                  | [Solution](insert_into_a_binary_search_tree.js)                                                               | 112 ms           | 41.9 MB              | Medium     |
+| 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)                        | [Solution](binary_tree_inorder_traversal.js)                                                                  | 56 ms            | 33.7 MB              | Medium     |
 
 
