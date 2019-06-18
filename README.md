@@ -45,5 +45,6 @@
 | 912  | [Sort an Array](https://leetcode.com/problems/sort-an-array/)                                                        | [Solution](sort_an_array.js)                                                                                  | 7176 ms          | 38.9 MB              | Medium     |
 | 701  | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)                  | [Solution](insert_into_a_binary_search_tree.js)                                                               | 112 ms           | 41.9 MB              | Medium     |
 | 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)                        | [Solution](binary_tree_inorder_traversal.js)                                                                  | 56 ms            | 33.7 MB              | Medium     |
+| 1015 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/)                    | [Solution](smallest_integer_divisible.js)                                                                     | 52 ms            | 34.3 MB              | Medium     |
 
 
