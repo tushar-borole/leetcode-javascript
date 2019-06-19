@@ -41,6 +41,7 @@
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                  | [Solution](valid_palindrome.js)                                                                               | 76 ms            | 41 MB                | Easy       |
 | 896  | [Monotonic Array](https://leetcode.com/problems/monotonic-array/)                                                    | [Solution](monotonic_array.js)                                                                                | 68 ms            | 40.5 MB              | Easy       |
 | 653  | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)                              | [Solution](two_sum_IV.js)                                                                                     | 84 ms            | 41.5 MB              | Easy       |
+| 589  | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)                        | [Solution](preorder_traversal.js)                                                                             | 608 ms           | 77.1 MB              | Easy       |
 | 563  | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)                                                  | [binary_tree_tilt.js](binary_tree_tilt.js)                                                                    | 68 ms            | 37.7 MB              | Easy       |
 | 912  | [Sort an Array](https://leetcode.com/problems/sort-an-array/)                                                        | [Solution](sort_an_array.js)                                                                                  | 7176 ms          | 38.9 MB              | Medium     |
 | 701  | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)                  | [Solution](insert_into_a_binary_search_tree.js)                                                               | 112 ms           | 41.9 MB              | Medium     |
@@ -50,6 +51,6 @@
 
 ## Others
 
-|   | Title | Solution |
-|:--|:------|:---------|
-| 1 | Tree  |   df       |
+|   | Title | Solution           |
+|:--|:------|:-------------------|
+| 1 | Tree  | [tree.js](tree.js) |
