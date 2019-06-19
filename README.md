@@ -48,3 +48,8 @@
 | 1015 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/)                    | [Solution](smallest_integer_divisible.js)                                                                     | 52 ms            | 34.3 MB              | Medium     |
 
 
+## Others
+
+|   | Title | Solution |
+|:--|:------|:---------|
+| 1 | Tree  |   df       |
