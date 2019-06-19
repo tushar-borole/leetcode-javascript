@@ -47,6 +47,7 @@
 | 701  | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)                  | [Solution](insert_into_a_binary_search_tree.js)                                                               | 112 ms           | 41.9 MB              | Medium     |
 | 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)                        | [Solution](binary_tree_inorder_traversal.js)                                                                  | 56 ms            | 33.7 MB              | Medium     |
 | 1015 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/)                    | [Solution](smallest_integer_divisible.js)                                                                     | 52 ms            | 34.3 MB              | Medium     |
+| 215  | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)                    | [Solution](largest_element%20_in_an_array.js)                                                                 | 68 ms            | 35.9 MB              | Medium     |
 
 
 ## Others
