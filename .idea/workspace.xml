@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/postorder_traversal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort_array_by_parity_II.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -22,8 +22,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="319">
-                <caret line="45" column="294" selection-start-line="45" selection-start-column="294" selection-end-line="45" selection-end-column="294" />
+              <first_editor relative-caret-position="321">
+                <caret line="45" column="441" selection-start-line="45" selection-start-column="441" selection-end-line="45" selection-end-column="441" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -33,28 +33,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/postorder_traversal.js">
+        <entry file="file://$PROJECT_DIR$/sort_array_by_parity_II.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/preorder_traversal.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tree.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="48" selection-start-line="48" selection-end-line="51" selection-end-column="56" />
+            <state>
+              <caret selection-end-line="20" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -84,8 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/intersection_of_two_arrays.js" />
-        <option value="$PROJECT_DIR$/intersection_of_two_arrays_solution_2.js" />
         <option value="$PROJECT_DIR$/intersection_of_two_arrays_II.js" />
         <option value="$PROJECT_DIR$/intersection_of_two_arrays_II_solution2.js" />
         <option value="$PROJECT_DIR$/squares_of_a_sorted_array.js" />
@@ -134,6 +117,8 @@
         <option value="$PROJECT_DIR$/largest_element _in_an_array.js" />
         <option value="$PROJECT_DIR$/search_a_2d_matrix.js" />
         <option value="$PROJECT_DIR$/postorder_traversal.js" />
+        <option value="$PROJECT_DIR$/univalued_binary_tree.js" />
+        <option value="$PROJECT_DIR$/sort_array_by_parity_II.js" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -147,7 +132,7 @@
     <selected>-1</selected>
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="173" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
@@ -157,6 +142,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -168,7 +154,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -254,21 +239,8 @@
       <workItem from="1560710570715" duration="1351000" />
       <workItem from="1560823892341" duration="5273000" />
       <workItem from="1560901915948" duration="6386000" />
-      <workItem from="1560998641007" duration="1345000" />
-    </task>
-    <task id="LOCAL-00011" summary="Logo added">
-      <created>1557080701986</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1557080701986</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Reverse linked list added">
-      <created>1557102425167</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1557102425169</updated>
+      <workItem from="1560998641007" duration="2431000" />
+      <workItem from="1561009918835" duration="672000" />
     </task>
     <task id="LOCAL-00013" summary="reverse linked list added">
       <created>1557120511261</created>
@@ -599,14 +571,28 @@
       <option name="project" value="LOCAL" />
       <updated>1560925755380</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="590. N-ary Tree Postorder Traversal">
+      <created>1561000021782</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1561000021782</updated>
+    </task>
+    <task id="LOCAL-00061" summary="965. Univalued Binary Tree">
+      <created>1561001062294</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1561001062294</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="157826000" />
+    <option name="totallyTimeSpent" value="159584000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1888753" />
@@ -653,8 +639,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
-    <MESSAGE value="Squares of a Sorted Array added" />
-    <MESSAGE value="Minimum Index Sum of Two Lists" />
     <MESSAGE value="Remove Duplicates from Sorted Array" />
     <MESSAGE value="Same tree" />
     <MESSAGE value="Binary search added" />
@@ -678,7 +662,9 @@
     <MESSAGE value="589. N-ary Tree Preorder Traversal" />
     <MESSAGE value="215. Kth Largest Element in an Array" />
     <MESSAGE value="74. Search a 2D Matrix" />
-    <option name="LAST_COMMIT_MESSAGE" value="74. Search a 2D Matrix" />
+    <MESSAGE value="590. N-ary Tree Postorder Traversal" />
+    <MESSAGE value="965. Univalued Binary Tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="965. Univalued Binary Tree" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -712,17 +698,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/intersection_of_two_arrays_solution2.js" />
-    <entry file="file://$PROJECT_DIR$/intersection_of_two_arrays_II_solution2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/move_zeroes.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -966,11 +941,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/univalued_binary_tree.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sort_array_by_parity_II.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="20" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="319">
-            <caret line="45" column="294" selection-start-line="45" selection-start-column="294" selection-end-line="45" selection-end-column="294" />
+          <first_editor relative-caret-position="321">
+            <caret line="45" column="441" selection-start-line="45" selection-start-column="441" selection-end-line="45" selection-end-column="441" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
