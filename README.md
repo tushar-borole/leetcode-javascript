@@ -53,6 +53,7 @@
 | 1015 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/)                    | [Solution](smallest_integer_divisible.js)                                                                     | 52 ms            | 34.3 MB              | Medium     |
 | 215  | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)                    | [Solution](largest_element%20_in_an_array.js)                                                                 | 68 ms            | 35.9 MB              | Medium     |
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                              | [Solution](search_a_2d_matrix.js)                                                                             | 48 ms            | 34.5 MB              | Medium     |
+| 540  | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)                  | [single_element_in_a_sorted_array.js](single_element_in_a_sorted_array.js)                                    | 60 ms            | 35.2 MB              | Medium     |
 
 
 ## Others

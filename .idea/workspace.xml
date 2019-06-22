@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="922. Sort Array By Parity II">
-      <change afterPath="$PROJECT_DIR$/search_insert_position.js" afterDir="false" />
+    <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="35. Search Insert Position">
+      <change afterPath="$PROJECT_DIR$/single_element_in_a_sorted_array.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -19,10 +19,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/search_insert_position.js">
+        <entry file="file://$PROJECT_DIR$/single_element_in_a_sorted_array.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="13" selection-end-column="2" />
+            <state>
+              <caret selection-start-column="3" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -31,8 +31,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="213">
-                <caret line="45" column="301" selection-start-line="45" selection-start-column="301" selection-end-line="45" selection-end-column="301" />
+              <first_editor relative-caret-position="341">
+                <caret line="55" column="288" selection-start-line="55" selection-start-column="288" selection-end-line="55" selection-end-column="288" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -66,8 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/permutation_in_string.js" />
-        <option value="$PROJECT_DIR$/rec_test.js" />
         <option value="$PROJECT_DIR$/permutations.js" />
         <option value="$PROJECT_DIR$/minimum_index_sum_of_two_lists.js" />
         <option value="$PROJECT_DIR$/4Sum.js" />
@@ -116,6 +114,8 @@
         <option value="$PROJECT_DIR$/remove_element.js" />
         <option value="$PROJECT_DIR$/letter_combinations_of_a_phone_number.js" />
         <option value="$PROJECT_DIR$/search_insert_position.js" />
+        <option value="$PROJECT_DIR$/find_all_duplicates_in_an_array.js" />
+        <option value="$PROJECT_DIR$/single_element_in_a_sorted_array.js" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -238,21 +238,7 @@
       <workItem from="1560901915948" duration="6386000" />
       <workItem from="1560998641007" duration="2431000" />
       <workItem from="1561009918835" duration="1448000" />
-      <workItem from="1561176901901" duration="3778000" />
-    </task>
-    <task id="LOCAL-00014" summary="recursive solution">
-      <created>1557120652863</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1557120652863</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Fizz Buzz Added">
-      <created>1557121613747</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1557121613747</updated>
+      <workItem from="1561176901901" duration="5612000" />
     </task>
     <task id="LOCAL-00016" summary="Find common character in array of string">
       <created>1558241744067</created>
@@ -583,11 +569,25 @@
       <option name="project" value="LOCAL" />
       <updated>1561010737464</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="35. Search Insert Position">
+      <created>1561187342444</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1561187342445</updated>
+    </task>
+    <task id="LOCAL-00064" summary="35. Search Insert Position">
+      <created>1561187434995</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1561187434995</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="164138000" />
+    <option name="totallyTimeSpent" value="165972000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -637,7 +637,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
-    <MESSAGE value="Same tree" />
     <MESSAGE value="Binary search added" />
     <MESSAGE value="Readme changed" />
     <MESSAGE value="search in binary tree added" />
@@ -662,7 +661,8 @@
     <MESSAGE value="590. N-ary Tree Postorder Traversal" />
     <MESSAGE value="965. Univalued Binary Tree" />
     <MESSAGE value="922. Sort Array By Parity II" />
-    <option name="LAST_COMMIT_MESSAGE" value="922. Sort Array By Parity II" />
+    <MESSAGE value="35. Search Insert Position" />
+    <option name="LAST_COMMIT_MESSAGE" value="35. Search Insert Position" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -696,21 +696,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/squares_of_a_sorted_array.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="28" selection-start-line="28" selection-end-line="32" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rec_test.js" />
-    <entry file="file://$PROJECT_DIR$/minimum_index_sum_of_two_lists.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="29" selection-start-line="29" selection-end-line="55" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4Sum.js" />
     <entry file="file://$PROJECT_DIR$/remove_duplicates_from_sorted_array.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -958,18 +943,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/search_insert_position.js">
+    <entry file="file://$PROJECT_DIR$/find_all_duplicates_in_an_array.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="13" selection-end-column="2" />
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search_insert_position.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single_element_in_a_sorted_array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-start-column="3" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="213">
-            <caret line="45" column="301" selection-start-line="45" selection-start-column="301" selection-end-line="45" selection-end-column="301" />
+          <first_editor relative-caret-position="341">
+            <caret line="55" column="288" selection-start-line="55" selection-start-column="288" selection-end-line="55" selection-end-column="288" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
