@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="540. Single Element in a Sorted Array">
       <change afterPath="$PROJECT_DIR$/continuous_subarray_sum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repeated_string_match.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/height_checker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/n-ary_tree_level_order_traversal.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/shuffle_an_array.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
@@ -21,10 +22,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/repeated_string_match.js">
+        <entry file="file://$PROJECT_DIR$/n-ary_tree_level_order_traversal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            <state relative-caret-position="120">
+              <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -33,8 +34,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="287">
-                <caret line="48" column="286" selection-start-line="48" selection-start-column="286" selection-end-line="48" selection-end-column="286" />
+              <first_editor relative-caret-position="541">
+                <caret line="49" column="299" selection-start-line="49" selection-start-column="299" selection-end-line="49" selection-end-column="299" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -57,6 +58,7 @@
       <find>toLo</find>
       <find>depth = counter</find>
       <find>.children</find>
+      <find>.sort(</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -68,9 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/remove_duplicates_from_sorted_array.js" />
-        <option value="$PROJECT_DIR$/same_tree.js" />
-        <option value="$PROJECT_DIR$/maximum_length_of_repeated_subarray.js" />
         <option value="$PROJECT_DIR$/wiggle_sort_II.js" />
         <option value="$PROJECT_DIR$/binary_search.js" />
         <option value="$PROJECT_DIR$/binary_search_recursion.js" />
@@ -118,6 +117,9 @@
         <option value="$PROJECT_DIR$/continuous_subarray_sum.js" />
         <option value="$PROJECT_DIR$/shuffle_an_array.js" />
         <option value="$PROJECT_DIR$/repeated_string_match.js" />
+        <option value="$PROJECT_DIR$/height_checker.js" />
+        <option value="$PROJECT_DIR$/partition_array_into_three_parts.js" />
+        <option value="$PROJECT_DIR$/n-ary_tree_level_order_traversal.js" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -240,21 +242,7 @@
       <workItem from="1560901915948" duration="6386000" />
       <workItem from="1560998641007" duration="2431000" />
       <workItem from="1561009918835" duration="1448000" />
-      <workItem from="1561176901901" duration="9428000" />
-    </task>
-    <task id="LOCAL-00017" summary="Middle of linked list solution added">
-      <created>1558245619380</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1558245619380</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Another solution for middle of linked list added">
-      <created>1558245972740</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1558245972740</updated>
+      <workItem from="1561176901901" duration="13911000" />
     </task>
     <task id="LOCAL-00019" summary="Single Number Solution added">
       <created>1558321720972</created>
@@ -585,11 +573,25 @@
       <option name="project" value="LOCAL" />
       <updated>1561235490712</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="686. Repeated String Match">
+      <created>1561265709874</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1561265709874</updated>
+    </task>
+    <task id="LOCAL-00067" summary="1013. Partition Array Into Three Parts With Equal Sum">
+      <created>1561268331519</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1561268331519</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="169788000" />
+    <option name="totallyTimeSpent" value="174271000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -606,7 +608,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" />
-      <window_info anchor="bottom" id="Quokka" order="8" visible="true" weight="0.3490073" />
+      <window_info anchor="bottom" id="Quokka" order="8" weight="0.3490073" />
       <window_info anchor="bottom" id="JIRA" order="9" />
       <window_info anchor="bottom" id="AWS Tail" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -639,8 +641,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
-    <MESSAGE value="Readme changed" />
-    <MESSAGE value="search in binary tree added" />
     <MESSAGE value="shorted distance" />
     <MESSAGE value="Readmi changed" />
     <MESSAGE value="Number Complement added" />
@@ -664,7 +664,9 @@
     <MESSAGE value="922. Sort Array By Parity II" />
     <MESSAGE value="35. Search Insert Position" />
     <MESSAGE value="540. Single Element in a Sorted Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="540. Single Element in a Sorted Array" />
+    <MESSAGE value="686. Repeated String Match" />
+    <MESSAGE value="1013. Partition Array Into Three Parts With Equal Sum" />
+    <option name="LAST_COMMIT_MESSAGE" value="1013. Partition Array Into Three Parts With Equal Sum" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -698,9 +700,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/maximum_length_of_repeated_subarray.js" />
-    <entry file="file://$PROJECT_DIR$/wiggle_sort_II.js" />
-    <entry file="file://$PROJECT_DIR$/maximum_depth_of_binary_tree.js" />
     <entry file="file://$PROJECT_DIR$/symmetric_tree.js" />
     <entry file="file://$PROJECT_DIR$/minimum_depth_of_binary_tree.js" />
     <entry file="file://$PROJECT_DIR$/test.js" />
@@ -968,6 +967,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/height_checker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/repeated_string_match.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -975,11 +981,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/partition_array_into_three_parts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="2" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/n-ary_tree_level_order_traversal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="287">
-            <caret line="48" column="286" selection-start-line="48" selection-start-column="286" selection-end-line="48" selection-end-column="286" />
+          <first_editor relative-caret-position="541">
+            <caret line="49" column="299" selection-start-line="49" selection-start-column="299" selection-end-line="49" selection-end-column="299" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
