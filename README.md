@@ -59,6 +59,7 @@
 | 215  | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)                                 | [Solution](largest_element%20_in_an_array.js)                                                                 | 68 ms            | 35.9 MB              | Medium     |
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                                           | [Solution](search_a_2d_matrix.js)                                                                             | 48 ms            | 34.5 MB              | Medium     |
 | 540  | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)                               | [single_element_in_a_sorted_array.js](single_element_in_a_sorted_array.js)                                    | 60 ms            | 35.2 MB              | Medium     |
+| 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                                 | [top_k_frequent_elements.js](top_k_frequent_elements.js)                                                      | 80 ms            | 39.1 MB              | Medium     |
 
 
 ## Others
