@@ -4,8 +4,8 @@
     <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="540. Single Element in a Sorted Array">
       <change afterPath="$PROJECT_DIR$/continuous_subarray_sum.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/height_checker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n-ary_tree_level_order_traversal.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/shuffle_an_array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_maximum_number.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -22,10 +22,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/n-ary_tree_level_order_traversal.js">
+        <entry file="file://$PROJECT_DIR$/minimum_distance_between_bst_nodes.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            <state relative-caret-position="345">
+              <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -34,12 +34,21 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="541">
-                <caret line="49" column="299" selection-start-line="49" selection-start-column="299" selection-end-line="49" selection-end-column="299" />
+              <first_editor relative-caret-position="319">
+                <caret line="54" column="441" selection-start-line="54" selection-start-column="441" selection-end-line="54" selection-end-column="441" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
               </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/third_maximum_number.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="12" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -59,6 +68,7 @@
       <find>depth = counter</find>
       <find>.children</find>
       <find>.sort(</find>
+      <find>TreeNode</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -70,8 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/wiggle_sort_II.js" />
-        <option value="$PROJECT_DIR$/binary_search.js" />
         <option value="$PROJECT_DIR$/binary_search_recursion.js" />
         <option value="$PROJECT_DIR$/search_in_a_binary_search_tree.js" />
         <option value="$PROJECT_DIR$/maximum_depth_of_binary_tree.js" />
@@ -120,6 +128,8 @@
         <option value="$PROJECT_DIR$/height_checker.js" />
         <option value="$PROJECT_DIR$/partition_array_into_three_parts.js" />
         <option value="$PROJECT_DIR$/n-ary_tree_level_order_traversal.js" />
+        <option value="$PROJECT_DIR$/minimum_distance_between_bst_nodes.js" />
+        <option value="$PROJECT_DIR$/third_maximum_number.js" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -242,21 +252,8 @@
       <workItem from="1560901915948" duration="6386000" />
       <workItem from="1560998641007" duration="2431000" />
       <workItem from="1561009918835" duration="1448000" />
-      <workItem from="1561176901901" duration="13911000" />
-    </task>
-    <task id="LOCAL-00019" summary="Single Number Solution added">
-      <created>1558321720972</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1558321720979</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Max Conscative number added">
-      <created>1558322944285</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1558322944285</updated>
+      <workItem from="1561176901901" duration="17985000" />
+      <workItem from="1561350770812" duration="993000" />
     </task>
     <task id="LOCAL-00021" summary="another solution added">
       <created>1558323582086</created>
@@ -587,17 +584,31 @@
       <option name="project" value="LOCAL" />
       <updated>1561268331519</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="429. N-ary Tree Level Order Traversal">
+      <created>1561280472289</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1561280472289</updated>
+    </task>
+    <task id="LOCAL-00069" summary="783. Minimum Distance Between BST Nodes">
+      <created>1561335544480</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1561335544480</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="174271000" />
+    <option name="totallyTimeSpent" value="179338000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2212714" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1888753" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -608,7 +619,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" />
-      <window_info anchor="bottom" id="Quokka" order="8" weight="0.3490073" />
+      <window_info anchor="bottom" id="Quokka" order="8" visible="true" weight="0.28526646" />
       <window_info anchor="bottom" id="JIRA" order="9" />
       <window_info anchor="bottom" id="AWS Tail" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -641,8 +652,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
-    <MESSAGE value="shorted distance" />
-    <MESSAGE value="Readmi changed" />
     <MESSAGE value="Number Complement added" />
     <MESSAGE value="merge two binary tree" />
     <MESSAGE value="Missing number added" />
@@ -666,7 +675,9 @@
     <MESSAGE value="540. Single Element in a Sorted Array" />
     <MESSAGE value="686. Repeated String Match" />
     <MESSAGE value="1013. Partition Array Into Three Parts With Equal Sum" />
-    <option name="LAST_COMMIT_MESSAGE" value="1013. Partition Array Into Three Parts With Equal Sum" />
+    <MESSAGE value="429. N-ary Tree Level Order Traversal" />
+    <MESSAGE value="783. Minimum Distance Between BST Nodes" />
+    <option name="LAST_COMMIT_MESSAGE" value="783. Minimum Distance Between BST Nodes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -700,9 +711,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/symmetric_tree.js" />
-    <entry file="file://$PROJECT_DIR$/minimum_depth_of_binary_tree.js" />
-    <entry file="file://$PROJECT_DIR$/test.js" />
     <entry file="file://$PROJECT_DIR$/merge_two_sorted_lists.js" />
     <entry file="file://$PROJECT_DIR$/shortest_distance_to_a_character.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -856,13 +864,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/traverse.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/largest_element _in_an_array.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -915,27 +916,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/remove_element.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letter_combinations_of_a_phone_number.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/find_all_duplicates_in_an_array.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/remove_element.js" />
+    <entry file="file://$PROJECT_DIR$/letter_combinations_of_a_phone_number.js" />
+    <entry file="file://$PROJECT_DIR$/find_all_duplicates_in_an_array.js" />
     <entry file="file://$PROJECT_DIR$/search_insert_position.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -995,11 +978,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/same_tree.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="655">
+          <caret line="85" selection-start-line="85" selection-end-line="87" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/traverse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minimum_distance_between_bst_nodes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third_maximum_number.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="12" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="541">
-            <caret line="49" column="299" selection-start-line="49" selection-start-column="299" selection-end-line="49" selection-end-column="299" />
+          <first_editor relative-caret-position="319">
+            <caret line="54" column="441" selection-start-line="54" selection-start-column="441" selection-end-line="54" selection-end-column="441" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
