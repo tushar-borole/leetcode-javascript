@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/combination_sum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/combination_sum_II.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/combination_sum_III.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -22,8 +23,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="451">
-                <caret line="64" column="301" selection-start-line="64" selection-start-column="301" selection-end-line="64" selection-end-column="301" />
+              <first_editor relative-caret-position="442">
+                <caret line="65" column="301" selection-start-line="65" selection-start-column="301" selection-end-line="65" selection-end-column="301" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -33,13 +34,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/combination_sum.js">
+        <entry file="file://$PROJECT_DIR$/combination_sum_III.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="75">
+              <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="32" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/combination_sum_II.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -71,8 +78,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test.js" />
-        <option value="$PROJECT_DIR$/merge_two_sorted_lists.js" />
         <option value="$PROJECT_DIR$/array_partition_I.js" />
         <option value="$PROJECT_DIR$/shortest_distance_to_a_character.js" />
         <option value="$PROJECT_DIR$/number_complement.js" />
@@ -121,6 +126,8 @@
         <option value="$PROJECT_DIR$/two_sum_II.js" />
         <option value="$PROJECT_DIR$/duplicate_zeros.js" />
         <option value="$PROJECT_DIR$/combination_sum.js" />
+        <option value="$PROJECT_DIR$/combination_sum_III.js" />
+        <option value="$PROJECT_DIR$/combination_sum_II.js" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -245,14 +252,7 @@
       <workItem from="1561176901901" duration="17985000" />
       <workItem from="1561350770812" duration="2679000" />
       <workItem from="1561436380992" duration="4677000" />
-      <workItem from="1561515854529" duration="189000" />
-    </task>
-    <task id="LOCAL-00025" summary="another solution added">
-      <created>1558330842387</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1558330842387</updated>
+      <workItem from="1561515854529" duration="7207000" />
     </task>
     <task id="LOCAL-00026" summary="find disapeared numebr in array">
       <created>1558413693875</created>
@@ -590,16 +590,52 @@
       <option name="project" value="LOCAL" />
       <updated>1561444816196</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="39. Combination Sum">
+      <created>1561516057413</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1561516057413</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="185890000" />
+    <option name="totallyTimeSpent" value="192908000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2212714" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3291536" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39916405" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" />
+      <window_info active="true" anchor="bottom" id="Quokka" order="8" visible="true" weight="0.33751306" />
+      <window_info anchor="bottom" id="JIRA" order="9" />
+      <window_info anchor="bottom" id="AWS Tail" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.3291536" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.31452456" />
+      <window_info anchor="bottom" id="Messages" order="14" />
+      <window_info anchor="bottom" id="GraphQL" order="15" weight="0.3291536" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="leetcode" order="3" side_tool="true" />
+      <window_info anchor="right" id="Google Cloud Storage" order="4" show_stripe_button="false" />
+      <window_info anchor="right" id="Serverless Framework GUI" order="5" />
+      <window_info anchor="right" id="Call Graph" order="6" side_tool="true" />
+      <window_info anchor="right" id="Mongo Explorer" order="7" />
+    </layout>
+    <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2212714" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -627,7 +663,7 @@
       <window_info anchor="right" id="Serverless Framework GUI" order="5" />
       <window_info anchor="right" id="Call Graph" order="6" side_tool="true" />
       <window_info anchor="right" id="Mongo Explorer" order="7" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -644,7 +680,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
-    <MESSAGE value="Valid Palindrome" />
     <MESSAGE value="896. Monotonic Array" />
     <MESSAGE value="701. Insert into a Binary Search Tree" />
     <MESSAGE value="563. Binary Tree Tilt" />
@@ -669,7 +704,8 @@
     <MESSAGE value="347. Top K Frequent Elements" />
     <MESSAGE value="167. Two Sum II - Input array is sorted" />
     <MESSAGE value="1089. Duplicate Zeros" />
-    <option name="LAST_COMMIT_MESSAGE" value="1089. Duplicate Zeros" />
+    <MESSAGE value="39. Combination Sum" />
+    <option name="LAST_COMMIT_MESSAGE" value="39. Combination Sum" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -703,14 +739,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/N-repeated-element.js" />
-    <entry file="file://$PROJECT_DIR$/remove_all_adjacent_duplicates_in_string.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/missing_number.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -964,21 +992,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/combination_sum_III.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="32" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/combination_sum.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        <state relative-caret-position="122">
+          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="44" selection-end-column="2" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/combination_sum_II.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="451">
-            <caret line="64" column="301" selection-start-line="64" selection-start-column="301" selection-end-line="64" selection-end-column="301" />
+          <first_editor relative-caret-position="442">
+            <caret line="65" column="301" selection-start-line="65" selection-start-column="301" selection-end-line="65" selection-end-column="301" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />

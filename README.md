@@ -63,6 +63,7 @@
 | 540  | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)                               | [single_element_in_a_sorted_array.js](single_element_in_a_sorted_array.js)                                    | 60 ms            | 35.2 MB              | Medium     |
 | 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                                 | [top_k_frequent_elements.js](top_k_frequent_elements.js)                                                      | 80 ms            | 39.1 MB              | Medium     |
 | 39   | [Combination Sum](https://leetcode.com/problems/combination-sum/)                                                                 | [combination_sum.js](combination_sum.js)                                                                      | 72 ms            | 35.8 MB              | Medium     |
+| 40   | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)                                                           |                                                                                                               | 84 ms            | 37.6 MB              | Medium     |
 
 
 ## Others
