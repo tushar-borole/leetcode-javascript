@@ -43,4 +43,4 @@ var combinationSum2 = function(
   return combinations;
 };
 
-combinationSum2([10, 1, 2, 7, 6, 1, 5], 8); //?
+combinationSum2([10, 1, 2, 7, 6, 1, 5].sort(), 8); //?
