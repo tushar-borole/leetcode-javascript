@@ -67,6 +67,7 @@
 | 39   | [Combination Sum](https://leetcode.com/problems/combination-sum/)                                                                 | [combination_sum.js](combination_sum.js)                                                                      | 72 ms            | 35.8 MB              | Medium     |
 | 40   | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)                                                           | [combination_sum_II.js](combination_sum_II.js)                                                                | 84 ms            | 37.6 MB              | Medium     |
 | 46   | [Permutations](https://leetcode.com/problems/permutations/)                                                                       | [permutations.js](permutations.js)                                                                            | 88 ms            | 37.6 MB              | Medium     |
+| 80   | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)                   | [remove_duplicates_from_sorted_array_II.js](remove_duplicates_from_sorted_array_II.js)                        | 64 ms            | 35.8 MB              | Medium     |
 
 
 ## Others
