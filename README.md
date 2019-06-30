@@ -71,6 +71,7 @@
 
 ## Others
 
-|   | Title | Solution           |
-|:--|:------|:-------------------|
-| 1 | Tree  | [tree.js](tree.js) |
+|   | Title     | Solution                     |
+|:--|:----------|:-----------------------------|
+| 1 | Tree      | [tree.js](tree.js)           |
+| 2 | Factorial | [factorial.js](factorial.js) |
