@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/reverse_words_in_string.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/palindromic_substrings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/word_ladder.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -19,10 +20,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/reverse_words_in_string.js">
+        <entry file="file://$PROJECT_DIR$/subset.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+            <state relative-caret-position="274">
+              <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -31,12 +32,21 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="416">
-                <caret line="72" column="301" selection-start-line="72" selection-start-column="301" selection-end-line="72" selection-end-column="301" />
+              <first_editor relative-caret-position="431">
+                <caret line="73" column="301" selection-start-line="73" selection-start-column="301" selection-end-line="73" selection-end-column="301" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
               </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/palindromic_substrings.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -58,6 +68,7 @@
       <find>.sort(</find>
       <find>TreeNode</find>
       <find>openStack</find>
+      <find>WORD LA</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -69,7 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/binary_tree_tilt.js" />
         <option value="$PROJECT_DIR$/bst.js" />
         <option value="$PROJECT_DIR$/traverse.js" />
         <option value="$PROJECT_DIR$/binary_tree_inorder_traversal.js" />
@@ -110,7 +120,6 @@
         <option value="$PROJECT_DIR$/rotate_array.js" />
         <option value="$PROJECT_DIR$/permutation_sequence.js" />
         <option value="$PROJECT_DIR$/permutations.js" />
-        <option value="$PROJECT_DIR$/word_ladder.js" />
         <option value="$PROJECT_DIR$/3Sum.js" />
         <option value="$PROJECT_DIR$/valid_parentheses.js" />
         <option value="$PROJECT_DIR$/factorial.js" />
@@ -119,6 +128,8 @@
         <option value="$PROJECT_DIR$/first_unique_character_in_a_string.js" />
         <option value="$PROJECT_DIR$/subset.js" />
         <option value="$PROJECT_DIR$/reverse_words_in_string.js" />
+        <option value="$PROJECT_DIR$/word_ladder.js" />
+        <option value="$PROJECT_DIR$/palindromic_substrings.js" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -133,9 +144,9 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="975" />
+    <option name="y" value="173" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -252,14 +263,7 @@
       <workItem from="1561767944473" duration="23000" />
       <workItem from="1561844699077" duration="3951000" />
       <workItem from="1561915630806" duration="8848000" />
-      <workItem from="1562033991915" duration="3854000" />
-    </task>
-    <task id="LOCAL-00036" summary="Remove Duplicates from Sorted Array">
-      <created>1559455717786</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1559455717786</updated>
+      <workItem from="1562033991915" duration="12313000" />
     </task>
     <task id="LOCAL-00037" summary="Same tree">
       <created>1559522403524</created>
@@ -597,17 +601,24 @@
       <option name="project" value="LOCAL" />
       <updated>1561950721752</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="151. Reverse Words in a String">
+      <created>1562039256641</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1562039256642</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="232546000" />
+    <option name="totallyTimeSpent" value="241005000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30378973" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17765044" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -618,7 +629,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" />
-      <window_info anchor="bottom" id="Quokka" order="8" visible="true" weight="0.2570533" />
+      <window_info anchor="bottom" id="Quokka" order="8" visible="true" weight="0.14498141" />
       <window_info anchor="bottom" id="JIRA" order="9" />
       <window_info anchor="bottom" id="AWS Tail" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -680,7 +691,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
-    <MESSAGE value="Tree Added" />
     <MESSAGE value="589. N-ary Tree Preorder Traversal" />
     <MESSAGE value="215. Kth Largest Element in an Array" />
     <MESSAGE value="74. Search a 2D Matrix" />
@@ -705,7 +715,8 @@
     <MESSAGE value="80. Remove Duplicates from Sorted Array II" />
     <MESSAGE value="387. First Unique Character in a String" />
     <MESSAGE value="78. Subsets" />
-    <option name="LAST_COMMIT_MESSAGE" value="78. Subsets" />
+    <MESSAGE value="151. Reverse Words in a String" />
+    <option name="LAST_COMMIT_MESSAGE" value="151. Reverse Words in a String" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -739,7 +750,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sum.js" />
     <entry file="file://$PROJECT_DIR$/binary_tree_inorder_traversal.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -934,7 +944,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/3Sum.js" />
     <entry file="file://$PROJECT_DIR$/combination_sum_III.js" />
-    <entry file="file://$PROJECT_DIR$/word_ladder.js" />
     <entry file="file://$PROJECT_DIR$/valid_parentheses.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -971,10 +980,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/reverse_words_in_string.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/word_ladder.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="96" column="3" selection-start-line="96" selection-start-column="3" selection-end-line="96" selection-end-column="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/combination_sum.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="34" />
+        <state relative-caret-position="449">
+          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="34" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -983,23 +1009,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/subset.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        <state relative-caret-position="274">
+          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/reverse_words_in_string.js">
+    <entry file="file://$PROJECT_DIR$/palindromic_substrings.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        <state relative-caret-position="90">
+          <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="416">
-            <caret line="72" column="301" selection-start-line="72" selection-start-column="301" selection-end-line="72" selection-end-column="301" />
+          <first_editor relative-caret-position="431">
+            <caret line="73" column="301" selection-start-line="73" selection-start-column="301" selection-end-line="73" selection-end-column="301" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
