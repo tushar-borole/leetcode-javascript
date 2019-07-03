@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/palindromic_substrings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary_tree_level_order_traversal.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/word_ladder.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
@@ -20,10 +20,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/subset.js">
+        <entry file="file://$PROJECT_DIR$/binary_tree_level_order_traversal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+            <state relative-caret-position="522">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
             </state>
           </provider>
         </entry>
@@ -32,21 +32,12 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="431">
-                <caret line="73" column="301" selection-start-line="73" selection-start-column="301" selection-end-line="73" selection-end-column="301" />
+              <first_editor relative-caret-position="399">
+                <caret line="74" column="329" selection-start-line="74" selection-start-column="329" selection-end-line="74" selection-end-column="329" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
               </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/palindromic_substrings.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -66,9 +57,9 @@
       <find>depth = counter</find>
       <find>.children</find>
       <find>.sort(</find>
-      <find>TreeNode</find>
       <find>openStack</find>
       <find>WORD LA</find>
+      <find>TreeNode</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -80,7 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/bst.js" />
         <option value="$PROJECT_DIR$/traverse.js" />
         <option value="$PROJECT_DIR$/binary_tree_inorder_traversal.js" />
         <option value="$PROJECT_DIR$/sum.js" />
@@ -130,6 +120,7 @@
         <option value="$PROJECT_DIR$/reverse_words_in_string.js" />
         <option value="$PROJECT_DIR$/word_ladder.js" />
         <option value="$PROJECT_DIR$/palindromic_substrings.js" />
+        <option value="$PROJECT_DIR$/binary_tree_level_order_traversal.js" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -153,6 +144,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -164,7 +156,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -263,14 +254,8 @@
       <workItem from="1561767944473" duration="23000" />
       <workItem from="1561844699077" duration="3951000" />
       <workItem from="1561915630806" duration="8848000" />
-      <workItem from="1562033991915" duration="12313000" />
-    </task>
-    <task id="LOCAL-00037" summary="Same tree">
-      <created>1559522403524</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1559522403525</updated>
+      <workItem from="1562033991915" duration="12339000" />
+      <workItem from="1562121127652" duration="1813000" />
     </task>
     <task id="LOCAL-00038" summary="Binary search added">
       <created>1559625729734</created>
@@ -608,17 +593,24 @@
       <option name="project" value="LOCAL" />
       <updated>1562039256642</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="647. Palindromic Substrings">
+      <created>1562089373620</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1562089373620</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="241005000" />
+    <option name="totallyTimeSpent" value="242844000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17765044" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15158924" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -629,7 +621,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" />
-      <window_info anchor="bottom" id="Quokka" order="8" visible="true" weight="0.14498141" />
+      <window_info anchor="bottom" id="Quokka" order="8" visible="true" weight="0.32392895" />
       <window_info anchor="bottom" id="JIRA" order="9" />
       <window_info anchor="bottom" id="AWS Tail" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -691,7 +683,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
-    <MESSAGE value="589. N-ary Tree Preorder Traversal" />
     <MESSAGE value="215. Kth Largest Element in an Array" />
     <MESSAGE value="74. Search a 2D Matrix" />
     <MESSAGE value="590. N-ary Tree Postorder Traversal" />
@@ -716,7 +707,8 @@
     <MESSAGE value="387. First Unique Character in a String" />
     <MESSAGE value="78. Subsets" />
     <MESSAGE value="151. Reverse Words in a String" />
-    <option name="LAST_COMMIT_MESSAGE" value="151. Reverse Words in a String" />
+    <MESSAGE value="647. Palindromic Substrings" />
+    <option name="LAST_COMMIT_MESSAGE" value="647. Palindromic Substrings" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -750,13 +742,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/binary_tree_inorder_traversal.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/maximum_xor.js" />
     <entry file="file://$PROJECT_DIR$/combination_sum_IV.js" />
     <entry file="file://$PROJECT_DIR$/two_sum_IV.js">
@@ -872,13 +857,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/same_tree.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="655">
-          <caret line="85" selection-start-line="85" selection-end-line="87" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -1007,25 +985,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/subset.js">
+    <entry file="file://$PROJECT_DIR$/palindromic_substrings.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        <state relative-caret-position="300">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/palindromic_substrings.js">
+    <entry file="file://$PROJECT_DIR$/subset.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        <state relative-caret-position="330">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/same_tree.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="85" selection-start-line="85" selection-end-line="87" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binary_tree_level_order_traversal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="431">
-            <caret line="73" column="301" selection-start-line="73" selection-start-column="301" selection-end-line="73" selection-end-column="301" />
+          <first_editor relative-caret-position="399">
+            <caret line="74" column="329" selection-start-line="74" selection-start-column="329" selection-end-line="74" selection-end-column="329" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
