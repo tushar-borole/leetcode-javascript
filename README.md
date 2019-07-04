@@ -82,3 +82,4 @@
 |:--|:----------|:-----------------------------|
 | 1 | Tree      | [tree.js](tree.js)           |
 | 2 | Factorial | [factorial.js](factorial.js) |
+| 3 | Graph     | [graph.js](graph.js)         |
