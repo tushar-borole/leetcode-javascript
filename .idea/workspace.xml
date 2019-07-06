@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="102. Binary Tree Level Order Traversal">
-      <change afterPath="$PROJECT_DIR$/best_time_to_buy_and_sell_stock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/find_all_anagrams_in_a_string.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/find_the_duplicate_number.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/subarray_sum_equals_k.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/substring_first_occurence.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/word_ladder.js" afterDir="false" />
@@ -24,8 +25,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/best_time_to_buy_and_sell_stock.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
+            <state relative-caret-position="333">
               <caret line="28" column="63" selection-start-line="28" selection-start-column="63" selection-end-line="28" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/find_all_anagrams_in_a_string.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/find_the_duplicate_number.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -34,8 +53,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="317">
-                <caret line="58" column="330" selection-start-line="58" selection-start-column="330" selection-end-line="58" selection-end-column="330" />
+              <first_editor relative-caret-position="298">
+                <caret line="78" column="336" selection-start-line="78" selection-start-column="336" selection-end-line="78" selection-end-column="336" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -73,8 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/preorder_traversal.js" />
-        <option value="$PROJECT_DIR$/largest_element _in_an_array.js" />
         <option value="$PROJECT_DIR$/search_a_2d_matrix.js" />
         <option value="$PROJECT_DIR$/postorder_traversal.js" />
         <option value="$PROJECT_DIR$/univalued_binary_tree.js" />
@@ -123,6 +140,8 @@
         <option value="$PROJECT_DIR$/add_string.js" />
         <option value="$PROJECT_DIR$/split_array_into_consecutive_subsequences.js" />
         <option value="$PROJECT_DIR$/best_time_to_buy_and_sell_stock.js" />
+        <option value="$PROJECT_DIR$/find_all_anagrams_in_a_string.js" />
+        <option value="$PROJECT_DIR$/find_the_duplicate_number.js" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -260,14 +279,7 @@
       <workItem from="1562121127652" duration="4386000" />
       <workItem from="1562182670648" duration="888000" />
       <workItem from="1562194707997" duration="8685000" />
-      <workItem from="1562437191523" duration="2394000" />
-    </task>
-    <task id="LOCAL-00042" summary="shorted distance">
-      <created>1559883062850</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1559883062850</updated>
+      <workItem from="1562437191523" duration="6114000" />
     </task>
     <task id="LOCAL-00043" summary="Readmi changed">
       <created>1559884273505</created>
@@ -605,11 +617,18 @@
       <option name="project" value="LOCAL" />
       <updated>1562271080288</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="121. Best Time to Buy and Sell Stock">
+      <created>1562444916595</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1562444916597</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="257384000" />
+    <option name="totallyTimeSpent" value="261104000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
@@ -688,7 +707,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
-    <MESSAGE value="922. Sort Array By Parity II" />
     <MESSAGE value="35. Search Insert Position" />
     <MESSAGE value="540. Single Element in a Sorted Array" />
     <MESSAGE value="686. Repeated String Match" />
@@ -713,7 +731,8 @@
     <MESSAGE value="680. Valid Palindrome II" />
     <MESSAGE value="Graph" />
     <MESSAGE value="415. Add Strings" />
-    <option name="LAST_COMMIT_MESSAGE" value="415. Add Strings" />
+    <MESSAGE value="121. Best Time to Buy and Sell Stock" />
+    <option name="LAST_COMMIT_MESSAGE" value="121. Best Time to Buy and Sell Stock" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -747,17 +766,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sort_array_by_parity_II.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="20" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/remove_element.js" />
     <entry file="file://$PROJECT_DIR$/letter_combinations_of_a_phone_number.js" />
     <entry file="file://$PROJECT_DIR$/find_all_duplicates_in_an_array.js" />
     <entry file="file://$PROJECT_DIR$/search_insert_position.js">
@@ -1011,16 +1019,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/best_time_to_buy_and_sell_stock.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
+        <state relative-caret-position="333">
           <caret line="28" column="63" selection-start-line="28" selection-start-column="63" selection-end-line="28" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/find_all_anagrams_in_a_string.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/find_the_duplicate_number.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="317">
-            <caret line="58" column="330" selection-start-line="58" selection-start-column="330" selection-end-line="58" selection-end-column="330" />
+          <first_editor relative-caret-position="298">
+            <caret line="78" column="336" selection-start-line="78" selection-start-column="336" selection-end-line="78" selection-end-column="336" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />

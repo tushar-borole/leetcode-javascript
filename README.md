@@ -76,6 +76,7 @@
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                   | [palindromic_substrings.js](palindromic_substrings.js)                                                        | 704 ms           | 37.2 MB              | Medium     |                 |                  |
 | 102. | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                             | [binary_tree_level_order_traversal.js](binary_tree_level_order_traversal.js)                                  | 60 ms            | 34.9 MB              | Medium     | O(N)            |                  |
 | 912  | [Sort an Array](https://leetcode.com/problems/sort-an-array/)                                                                     | [Solution](sort_an_array.js)                                                                                  | 7176 ms          | 38.9 MB              | Medium     |                 |                  |
+| 287  | [ Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                            | [find_the_duplicate_number.js](find_the_duplicate_number.js)                                                  | 84 ms            | 36 MB                | Medium     | O(N)            | O(1)             |
 
 ## Others
 
