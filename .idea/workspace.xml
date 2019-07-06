@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="102. Binary Tree Level Order Traversal">
-      <change afterPath="$PROJECT_DIR$/add_string.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_time_to_buy_and_sell_stock.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/subarray_sum_equals_k.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/substring_first_occurence.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/word_ladder.js" afterDir="false" />
@@ -22,10 +22,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/add_string.js">
+        <entry file="file://$PROJECT_DIR$/best_time_to_buy_and_sell_stock.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+            <state relative-caret-position="420">
+              <caret line="28" column="63" selection-start-line="28" selection-start-column="63" selection-end-line="28" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -34,8 +34,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="215">
-                <caret line="56" column="329" selection-start-line="56" selection-start-column="329" selection-end-line="56" selection-end-column="329" />
+              <first_editor relative-caret-position="317">
+                <caret line="58" column="330" selection-start-line="58" selection-start-column="330" selection-end-line="58" selection-end-column="330" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -73,8 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/smallest_integer_divisible.js" />
-        <option value="$PROJECT_DIR$/Tree.js" />
         <option value="$PROJECT_DIR$/preorder_traversal.js" />
         <option value="$PROJECT_DIR$/largest_element _in_an_array.js" />
         <option value="$PROJECT_DIR$/search_a_2d_matrix.js" />
@@ -123,6 +121,8 @@
         <option value="$PROJECT_DIR$/add_strings.js" />
         <option value="$PROJECT_DIR$/valid_palindrome_II.js" />
         <option value="$PROJECT_DIR$/add_string.js" />
+        <option value="$PROJECT_DIR$/split_array_into_consecutive_subsequences.js" />
+        <option value="$PROJECT_DIR$/best_time_to_buy_and_sell_stock.js" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -136,7 +136,7 @@
     <selected>-1</selected>
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="173" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
@@ -146,6 +146,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,7 +158,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -259,14 +259,8 @@
       <workItem from="1562033991915" duration="12339000" />
       <workItem from="1562121127652" duration="4386000" />
       <workItem from="1562182670648" duration="888000" />
-      <workItem from="1562194707997" duration="8098000" />
-    </task>
-    <task id="LOCAL-00041" summary="search in binary tree added">
-      <created>1559709516403</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1559709516403</updated>
+      <workItem from="1562194707997" duration="8685000" />
+      <workItem from="1562437191523" duration="2394000" />
     </task>
     <task id="LOCAL-00042" summary="shorted distance">
       <created>1559883062850</created>
@@ -604,11 +598,18 @@
       <option name="project" value="LOCAL" />
       <updated>1562268442211</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="415. Add Strings">
+      <created>1562271080288</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1562271080288</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="254403000" />
+    <option name="totallyTimeSpent" value="257384000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
@@ -687,7 +688,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
-    <MESSAGE value="965. Univalued Binary Tree" />
     <MESSAGE value="922. Sort Array By Parity II" />
     <MESSAGE value="35. Search Insert Position" />
     <MESSAGE value="540. Single Element in a Sorted Array" />
@@ -712,7 +712,8 @@
     <MESSAGE value="102. Binary Tree Level Order Traversal" />
     <MESSAGE value="680. Valid Palindrome II" />
     <MESSAGE value="Graph" />
-    <option name="LAST_COMMIT_MESSAGE" value="Graph" />
+    <MESSAGE value="415. Add Strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="415. Add Strings" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -746,20 +747,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/postorder_traversal.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/univalued_binary_tree.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sort_array_by_parity_II.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -983,13 +970,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/add_strings.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/add_strings.js" />
     <entry file="file://$PROJECT_DIR$/palindromic_substrings.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
@@ -1014,18 +995,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/split_array_into_consecutive_subsequences.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/add_string.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/best_time_to_buy_and_sell_stock.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="63" selection-start-line="28" selection-start-column="63" selection-end-line="28" selection-end-column="63" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="215">
-            <caret line="56" column="329" selection-start-line="56" selection-start-column="329" selection-end-line="56" selection-end-column="329" />
+          <first_editor relative-caret-position="317">
+            <caret line="58" column="330" selection-start-line="58" selection-start-column="330" selection-end-line="58" selection-end-column="330" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
