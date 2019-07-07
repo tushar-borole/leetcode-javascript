@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="102. Binary Tree Level Order Traversal">
-      <change afterPath="$PROJECT_DIR$/find_all_anagrams_in_a_string.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minimum_path_sum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subarray_sum_equals_k.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/substring_first_occurence.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/word_ladder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/group_anagrams.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -23,12 +19,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/minimum_path_sum.js">
+        <entry file="file://$PROJECT_DIR$/group_anagrams.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="285">
+              <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -37,8 +31,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="340">
-                <caret line="79" column="312" selection-start-line="79" selection-start-column="312" selection-end-line="79" selection-end-column="312" />
+              <first_editor relative-caret-position="478">
+                <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -76,10 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/postorder_traversal.js" />
-        <option value="$PROJECT_DIR$/univalued_binary_tree.js" />
-        <option value="$PROJECT_DIR$/sort_array_by_parity_II.js" />
-        <option value="$PROJECT_DIR$/remove_element.js" />
         <option value="$PROJECT_DIR$/letter_combinations_of_a_phone_number.js" />
         <option value="$PROJECT_DIR$/search_insert_position.js" />
         <option value="$PROJECT_DIR$/find_all_duplicates_in_an_array.js" />
@@ -126,6 +116,10 @@
         <option value="$PROJECT_DIR$/find_all_anagrams_in_a_string.js" />
         <option value="$PROJECT_DIR$/find_the_duplicate_number.js" />
         <option value="$PROJECT_DIR$/minimum_path_sum.js" />
+        <option value="$PROJECT_DIR$/css/custom.scss" />
+        <option value="$PROJECT_DIR$/css/style.scss" />
+        <option value="$PROJECT_DIR$/assets/css/style.scss" />
+        <option value="$PROJECT_DIR$/group_anagrams.js" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -157,6 +151,22 @@
               <item name="leetcode-javascript" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode-javascript" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcode-javascript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode-javascript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode-javascript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -182,6 +192,9 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/css" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -263,49 +276,7 @@
       <workItem from="1562121127652" duration="4386000" />
       <workItem from="1562182670648" duration="888000" />
       <workItem from="1562194707997" duration="8685000" />
-      <workItem from="1562437191523" duration="7728000" />
-    </task>
-    <task id="LOCAL-00044" summary="Number Complement added">
-      <created>1560045352752</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1560045352752</updated>
-    </task>
-    <task id="LOCAL-00045" summary="merge two binary tree">
-      <created>1560117477497</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1560117477497</updated>
-    </task>
-    <task id="LOCAL-00046" summary="Missing number added">
-      <created>1560119043612</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1560119043612</updated>
-    </task>
-    <task id="LOCAL-00047" summary="1047. Remove All Adjacent Duplicates In String">
-      <created>1560133301894</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1560133301894</updated>
-    </task>
-    <task id="LOCAL-00048" summary="Valid Palindrome">
-      <created>1560230019977</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1560230019977</updated>
-    </task>
-    <task id="LOCAL-00049" summary="896. Monotonic Array">
-      <created>1560321149950</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1560321149950</updated>
+      <workItem from="1562437191523" duration="11362000" />
     </task>
     <task id="LOCAL-00050" summary="701. Insert into a Binary Search Tree">
       <created>1560405039334</created>
@@ -608,11 +579,53 @@
       <option name="project" value="LOCAL" />
       <updated>1562453053720</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="64. Minimum Path Sum">
+      <created>1562463649729</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1562463649729</updated>
+    </task>
+    <task id="LOCAL-00094" summary="css added">
+      <created>1562464162628</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1562464162628</updated>
+    </task>
+    <task id="LOCAL-00095" summary="css changed">
+      <created>1562464277626</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1562464277626</updated>
+    </task>
+    <task id="LOCAL-00096" summary="css width changed">
+      <created>1562464406356</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1562464406356</updated>
+    </task>
+    <task id="LOCAL-00097" summary="Style css added">
+      <created>1562464681245</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1562464681245</updated>
+    </task>
+    <task id="LOCAL-00098" summary="css changed">
+      <created>1562464915885</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1562464915885</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="262718000" />
+    <option name="totallyTimeSpent" value="266352000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
@@ -691,11 +704,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
-    <MESSAGE value="35. Search Insert Position" />
-    <MESSAGE value="540. Single Element in a Sorted Array" />
-    <MESSAGE value="686. Repeated String Match" />
-    <MESSAGE value="1013. Partition Array Into Three Parts With Equal Sum" />
-    <MESSAGE value="429. N-ary Tree Level Order Traversal" />
     <MESSAGE value="783. Minimum Distance Between BST Nodes" />
     <MESSAGE value="414. Third Maximum Number" />
     <MESSAGE value="347. Top K Frequent Elements" />
@@ -716,7 +724,12 @@
     <MESSAGE value="415. Add Strings" />
     <MESSAGE value="121. Best Time to Buy and Sell Stock" />
     <MESSAGE value="102. Binary Tree Level Order Traversal" />
-    <option name="LAST_COMMIT_MESSAGE" value="102. Binary Tree Level Order Traversal" />
+    <MESSAGE value="64. Minimum Path Sum" />
+    <MESSAGE value="css added" />
+    <MESSAGE value="css width changed" />
+    <MESSAGE value="Style css added" />
+    <MESSAGE value="css changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="css changed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -750,24 +763,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/find_all_duplicates_in_an_array.js" />
-    <entry file="file://$PROJECT_DIR$/search_insert_position.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/single_element_in_a_sorted_array.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-start-column="3" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/continuous_subarray_sum.js" />
     <entry file="file://$PROJECT_DIR$/shuffle_an_array.js" />
     <entry file="file://$PROJECT_DIR$/height_checker.js" />
@@ -1021,6 +1016,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/minimum_path_sum.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1030,11 +1046,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/group_anagrams.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="340">
-            <caret line="79" column="312" selection-start-line="79" selection-start-column="312" selection-end-line="79" selection-end-column="312" />
+          <first_editor relative-caret-position="478">
+            <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
