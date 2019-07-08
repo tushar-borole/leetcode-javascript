@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="102. Binary Tree Level Order Traversal">
-      <change afterPath="$PROJECT_DIR$/group_anagrams.js" afterDir="false" />
+    <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="Code cleaned">
+      <change afterPath="$PROJECT_DIR$/longest_substring.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -19,10 +19,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/group_anagrams.js">
+        <entry file="file://$PROJECT_DIR$/longest_substring.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+            <state relative-caret-position="180">
+              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -31,8 +31,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="478">
-                <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
+              <first_editor relative-caret-position="274">
+                <caret line="81" column="437" selection-start-line="81" selection-start-column="437" selection-end-line="81" selection-end-column="437" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -70,7 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/letter_combinations_of_a_phone_number.js" />
         <option value="$PROJECT_DIR$/search_insert_position.js" />
         <option value="$PROJECT_DIR$/find_all_duplicates_in_an_array.js" />
         <option value="$PROJECT_DIR$/single_element_in_a_sorted_array.js" />
@@ -120,6 +119,7 @@
         <option value="$PROJECT_DIR$/css/style.scss" />
         <option value="$PROJECT_DIR$/assets/css/style.scss" />
         <option value="$PROJECT_DIR$/group_anagrams.js" />
+        <option value="$PROJECT_DIR$/longest_substring.js" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -143,7 +143,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,26 +150,11 @@
               <item name="leetcode-javascript" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode-javascript" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="leetcode-javascript" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode-javascript" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode-javascript" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode-javascript" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode-javascript" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode-javascript" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -277,13 +261,7 @@
       <workItem from="1562182670648" duration="888000" />
       <workItem from="1562194707997" duration="8685000" />
       <workItem from="1562437191523" duration="11362000" />
-    </task>
-    <task id="LOCAL-00050" summary="701. Insert into a Binary Search Tree">
-      <created>1560405039334</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1560405039336</updated>
+      <workItem from="1562536699115" duration="2273000" />
     </task>
     <task id="LOCAL-00051" summary="563. Binary Tree Tilt">
       <created>1560628463341</created>
@@ -621,14 +599,21 @@
       <option name="project" value="LOCAL" />
       <updated>1562464915885</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="Code cleaned">
+      <created>1562537039450</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1562537039452</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="266352000" />
+    <option name="totallyTimeSpent" value="268625000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34413204" />
@@ -704,7 +689,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
-    <MESSAGE value="783. Minimum Distance Between BST Nodes" />
     <MESSAGE value="414. Third Maximum Number" />
     <MESSAGE value="347. Top K Frequent Elements" />
     <MESSAGE value="167. Two Sum II - Input array is sorted" />
@@ -729,7 +713,8 @@
     <MESSAGE value="css width changed" />
     <MESSAGE value="Style css added" />
     <MESSAGE value="css changed" />
-    <option name="LAST_COMMIT_MESSAGE" value="css changed" />
+    <MESSAGE value="Code cleaned" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code cleaned" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -763,7 +748,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/continuous_subarray_sum.js" />
     <entry file="file://$PROJECT_DIR$/shuffle_an_array.js" />
     <entry file="file://$PROJECT_DIR$/height_checker.js" />
     <entry file="file://$PROJECT_DIR$/repeated_string_match.js">
@@ -981,13 +965,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/split_array_into_consecutive_subsequences.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/split_array_into_consecutive_subsequences.js" />
     <entry file="file://$PROJECT_DIR$/add_string.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -1049,15 +1027,22 @@
     <entry file="file://$PROJECT_DIR$/group_anagrams.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/longest_substring.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="478">
-            <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
+          <first_editor relative-caret-position="274">
+            <caret line="81" column="437" selection-start-line="81" selection-start-column="437" selection-end-line="81" selection-end-column="437" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />

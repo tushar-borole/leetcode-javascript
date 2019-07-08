@@ -79,6 +79,7 @@
 | 287  | [ Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                            | [find_the_duplicate_number.js](find_the_duplicate_number.js)                                                  | 84 ms            | 36 MB                | Medium     | O(N)            | O(1)             |                                                                                                                   |
 | 64   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)                                                               | [minimum_path_sum.js](minimum_path_sum.js)                                                                    | 52 ms            | 35.5 MB              | Medium     | o(N2)           | O(1)             | [https://www.youtube.com/watch?v=lBRtnuxg-gU](https://www.youtube.com/watch?v=lBRtnuxg-gU)                        |
 | 49   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                   | [group_anagrams.js](group_anagrams.js)                                                                        | 152 ms           | 47.3 MB              | Medium     | NlogN           |                  | [https://leetcode.com/problems/group-anagrams/solution/](https://leetcode.com/problems/group-anagrams/solution/ ) |
+| 3    | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)   | [Sliding Window Approach](longest_substring.js)                                                               | 84 ms            | 38.4 MB              | Medium     | O(N)            |                  | [https://www.youtube.com/watch?v=MK-NZ4hN7rs](https://www.youtube.com/watch?v=MK-NZ4hN7rs)                        |
 
 ## Others
 
@@ -87,3 +88,10 @@
 | 1 | Tree      | [tree.js](tree.js)           |
 | 2 | Factorial | [factorial.js](factorial.js) |
 | 3 | Graph     | [graph.js](graph.js)         |
+
+
+## Approach
+
+| Name           | Explanation                                 |
+|:---------------|:--------------------------------------------|
+| Sliding Window | https://www.youtube.com/watch?v=MK-NZ4hN7rs |
