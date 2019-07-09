@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="3. Longest Substring Without Repeating Characters">
-      <change afterPath="$PROJECT_DIR$/single_number_II.js" afterDir="false" />
+    <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/k_distinct_characters.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -18,12 +18,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="372">
-                <caret line="82" column="434" selection-start-line="82" selection-start-column="434" selection-end-line="82" selection-end-column="434" />
+              <first_editor relative-caret-position="224">
+                <caret line="83" column="460" selection-start-line="83" selection-start-column="460" selection-end-line="83" selection-end-column="460" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -32,14 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/single_number_II.js">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/k_distinct_characters.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="15" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="390">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -73,7 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/find_all_duplicates_in_an_array.js" />
         <option value="$PROJECT_DIR$/single_element_in_a_sorted_array.js" />
         <option value="$PROJECT_DIR$/continuous_subarray_sum.js" />
         <option value="$PROJECT_DIR$/shuffle_an_array.js" />
@@ -122,8 +118,9 @@
         <option value="$PROJECT_DIR$/assets/css/style.scss" />
         <option value="$PROJECT_DIR$/group_anagrams.js" />
         <option value="$PROJECT_DIR$/longest_substring.js" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/single_number_II.js" />
+        <option value="$PROJECT_DIR$/k_distinct_characters.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -150,7 +147,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,6 +158,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -269,14 +266,8 @@
       <workItem from="1562194707997" duration="8685000" />
       <workItem from="1562437191523" duration="11362000" />
       <workItem from="1562536699115" duration="2505000" />
-      <workItem from="1562562348471" duration="504000" />
-    </task>
-    <task id="LOCAL-00052" summary="Tree taverse added">
-      <created>1560657304862</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1560657304862</updated>
+      <workItem from="1562562348471" duration="650000" />
+      <workItem from="1562637863032" duration="4382000" />
     </task>
     <task id="LOCAL-00053" summary="94. Binary Tree Inorder Traversal">
       <created>1560659881164</created>
@@ -614,17 +605,24 @@
       <option name="project" value="LOCAL" />
       <updated>1562549868033</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="137. Single Number II">
+      <created>1562563440392</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1562563440393</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="269361000" />
+    <option name="totallyTimeSpent" value="273889000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29400977" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34474328" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -635,7 +633,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" />
-      <window_info anchor="bottom" id="Quokka" order="8" visible="true" weight="0.31380752" />
+      <window_info anchor="bottom" id="Quokka" order="8" visible="true" weight="0.37095088" />
       <window_info anchor="bottom" id="JIRA" order="9" />
       <window_info anchor="bottom" id="AWS Tail" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -643,7 +641,6 @@
       <window_info anchor="bottom" id="Terminal" order="13" weight="0.31452456" />
       <window_info anchor="bottom" id="Messages" order="14" />
       <window_info anchor="bottom" id="GraphQL" order="15" weight="0.3291536" />
-      <window_info anchor="right" id="Key Promoter X" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -652,6 +649,7 @@
       <window_info anchor="right" id="Serverless Framework GUI" order="5" />
       <window_info anchor="right" id="Call Graph" order="6" side_tool="true" />
       <window_info anchor="right" id="Mongo Explorer" order="7" />
+      <window_info anchor="right" id="Key Promoter X" order="8" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2212714" />
@@ -698,7 +696,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
-    <MESSAGE value="347. Top K Frequent Elements" />
     <MESSAGE value="167. Two Sum II - Input array is sorted" />
     <MESSAGE value="1089. Duplicate Zeros" />
     <MESSAGE value="39. Combination Sum" />
@@ -723,7 +720,8 @@
     <MESSAGE value="css changed" />
     <MESSAGE value="Code cleaned" />
     <MESSAGE value="3. Longest Substring Without Repeating Characters" />
-    <option name="LAST_COMMIT_MESSAGE" value="3. Longest Substring Without Repeating Characters" />
+    <MESSAGE value="137. Single Number II" />
+    <option name="LAST_COMMIT_MESSAGE" value="137. Single Number II" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -757,21 +755,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/height_checker.js" />
-    <entry file="file://$PROJECT_DIR$/repeated_string_match.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partition_array_into_three_parts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="2" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/n-ary_tree_level_order_traversal.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -1040,25 +1023,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/single_number_II.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2015.collection.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remove_all_adjacent_duplicates_in_string.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/k_distinct_characters.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="372">
-            <caret line="82" column="434" selection-start-line="82" selection-start-column="434" selection-end-line="82" selection-end-column="434" />
+          <first_editor relative-caret-position="224">
+            <caret line="83" column="460" selection-start-line="83" selection-start-column="460" selection-end-line="83" selection-end-column="460" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/single_number_II.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="15" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
