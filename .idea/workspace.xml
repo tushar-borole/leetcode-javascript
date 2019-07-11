@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/most_common_word.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/longest_palindromic_substring.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/longest_palindromic_substring_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minimum_window_substring.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,25 +19,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="101">
-                <caret line="13" column="311" selection-start-line="13" selection-start-column="311" selection-end-line="13" selection-end-column="311" />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/minimum_window_substring.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/most_common_word.js">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/permutations.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+            <state relative-caret-position="290">
+              <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -70,8 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/continuous_subarray_sum.js" />
-        <option value="$PROJECT_DIR$/shuffle_an_array.js" />
         <option value="$PROJECT_DIR$/repeated_string_match.js" />
         <option value="$PROJECT_DIR$/height_checker.js" />
         <option value="$PROJECT_DIR$/partition_array_into_three_parts.js" />
@@ -121,6 +115,8 @@
         <option value="$PROJECT_DIR$/k_distinct_characters.js" />
         <option value="$PROJECT_DIR$/most_common_word.js" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/longest_palindromic_substring.js" />
+        <option value="$PROJECT_DIR$/minimum_window_substring.js" />
       </list>
     </option>
   </component>
@@ -180,11 +176,11 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/css" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -267,14 +263,8 @@
       <workItem from="1562437191523" duration="11362000" />
       <workItem from="1562536699115" duration="2505000" />
       <workItem from="1562562348471" duration="650000" />
-      <workItem from="1562637863032" duration="6927000" />
-    </task>
-    <task id="LOCAL-00055" summary="1015. Smallest Integer Divisible by K">
-      <created>1560829563891</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1560829563891</updated>
+      <workItem from="1562637863032" duration="7200000" />
+      <workItem from="1562726014092" duration="3027000" />
     </task>
     <task id="LOCAL-00056" summary="Tree Added">
       <created>1560911580272</created>
@@ -612,17 +602,24 @@
       <option name="project" value="LOCAL" />
       <updated>1562643569327</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="819. Most Common Word">
+      <created>1562653273964</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1562653273964</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="276434000" />
+    <option name="totallyTimeSpent" value="279734000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34474328" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2555012" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -633,7 +630,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" />
-      <window_info anchor="bottom" id="Quokka" order="8" visible="true" weight="0.37095088" />
+      <window_info active="true" anchor="bottom" id="Quokka" order="8" visible="true" weight="0.42842215" />
       <window_info anchor="bottom" id="JIRA" order="9" />
       <window_info anchor="bottom" id="AWS Tail" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -696,7 +693,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
-    <MESSAGE value="39. Combination Sum" />
     <MESSAGE value="189. Rotate Array" />
     <MESSAGE value="46. Permutations" />
     <MESSAGE value="40. Combination Sum II" />
@@ -721,7 +717,8 @@
     <MESSAGE value="137. Single Number II" />
     <MESSAGE value="Given a string, find the length of the longest substring T that contains at most k distinct characters.&#10;&#10;Example 1:&#10;&#10;Input: s = &quot;eceba&quot;, k = 2&#10;Output: 3&#10;Explanation: T is &quot;ece&quot; which its length is 3.&#10;Example 2:&#10;&#10;Input: s = &quot;aa&quot;, k = 1&#10;Output: 2&#10;Explanation: T is &quot;aa&quot; which its length is 2." />
     <MESSAGE value="340. Longest Substring with At Most K Distinct Characters" />
-    <option name="LAST_COMMIT_MESSAGE" value="340. Longest Substring with At Most K Distinct Characters" />
+    <MESSAGE value="819. Most Common Word" />
+    <option name="LAST_COMMIT_MESSAGE" value="819. Most Common Word" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -755,20 +752,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/traverse.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/minimum_distance_between_bst_nodes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/third_maximum_number.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -836,13 +819,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="20" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/permutations.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -1043,6 +1019,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="101">
+            <caret line="13" column="307" selection-start-line="13" selection-start-column="307" selection-end-line="13" selection-end-column="307" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/most_common_word.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -1050,15 +1038,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="101">
-            <caret line="13" column="311" selection-start-line="13" selection-start-column="311" selection-end-line="13" selection-end-column="311" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
+    <entry file="file://$PROJECT_DIR$/longest_palindromic_substring.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minimum_window_substring.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/permutations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
         </state>
       </provider>
     </entry>
