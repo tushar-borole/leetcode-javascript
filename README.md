@@ -95,6 +95,7 @@
 
 ## Approach
 
-| Name           | Explanation                                 |
-|:---------------|:--------------------------------------------|
-| Sliding Window | https://www.youtube.com/watch?v=MK-NZ4hN7rs |
+| Name           | Explanation                                        |
+|:---------------|:---------------------------------------------------|
+| Sliding Window | https://www.youtube.com/watch?v=MK-NZ4hN7rs        |
+|                | https://www.youtube.com/watch?v=UEEvolnPA_k&t=962s |
