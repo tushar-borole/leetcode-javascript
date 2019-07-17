@@ -4,7 +4,7 @@
     <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="Unwanted files removed">
       <change afterPath="$PROJECT_DIR$/longest_palindromic_substring.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/longest_palindromic_substring_2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maximum_depth_of_binary_tree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/merge_k_sorted_lists.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/word_break.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
@@ -25,8 +25,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="205">
-                <caret line="14" column="460" selection-start-line="14" selection-start-column="460" selection-end-line="14" selection-end-column="460" />
+              <first_editor relative-caret-position="170">
+                <caret line="14" column="456" selection-start-line="14" selection-start-column="456" selection-end-line="14" selection-end-column="456" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -36,10 +36,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/maximum_depth_of_binary_tree.js">
+        <entry file="file://$PROJECT_DIR$/middle_of_the_linked_list.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+            <state relative-caret-position="465">
+              <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="34" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/merge_k_sorted_lists.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="113">
+              <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -76,8 +88,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/n-ary_tree_level_order_traversal.js" />
-        <option value="$PROJECT_DIR$/minimum_distance_between_bst_nodes.js" />
         <option value="$PROJECT_DIR$/third_maximum_number.js" />
         <option value="$PROJECT_DIR$/top_k_frequent_elements.js" />
         <option value="$PROJECT_DIR$/two_sum_II.js" />
@@ -126,6 +136,8 @@
         <option value="$PROJECT_DIR$/split_array_largest_sum.js" />
         <option value="$PROJECT_DIR$/word_break.js" />
         <option value="$PROJECT_DIR$/maximum_depth_of_binary_tree.js" />
+        <option value="$PROJECT_DIR$/middle_of_the_linked_list.js" />
+        <option value="$PROJECT_DIR$/merge_k_sorted_lists.js" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -143,7 +155,7 @@
     <selected>-1</selected>
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="173" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
@@ -186,11 +198,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -277,14 +289,8 @@
       <workItem from="1562726014092" duration="3027000" />
       <workItem from="1562874324913" duration="968000" />
       <workItem from="1562963054411" duration="1226000" />
-      <workItem from="1563249917020" duration="2862000" />
-    </task>
-    <task id="LOCAL-00058" summary="215. Kth Largest Element in an Array">
-      <created>1560925057962</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1560925057962</updated>
+      <workItem from="1563249917020" duration="6810000" />
+      <workItem from="1563331594823" duration="1023000" />
     </task>
     <task id="LOCAL-00059" summary="74. Search a 2D Matrix">
       <created>1560925755380</created>
@@ -622,17 +628,24 @@
       <option name="project" value="LOCAL" />
       <updated>1562963365303</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="104. Maximum Depth of Binary Tree">
+      <created>1563258214483</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1563258214484</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="284790000" />
+    <option name="totallyTimeSpent" value="289761000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2555012" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29951102" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Storybook" order="3" side_tool="true" />
@@ -644,7 +657,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" />
-      <window_info anchor="bottom" id="Quokka" order="8" visible="true" weight="0.4169279" />
+      <window_info active="true" anchor="bottom" id="Quokka" order="8" visible="true" weight="0.1431557" />
       <window_info anchor="bottom" id="JIRA" order="9" />
       <window_info anchor="bottom" id="AWS Tail" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -707,7 +720,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
-    <MESSAGE value="40. Combination Sum II" />
     <MESSAGE value="Factorial" />
     <MESSAGE value="80. Remove Duplicates from Sorted Array II" />
     <MESSAGE value="387. First Unique Character in a String" />
@@ -732,7 +744,8 @@
     <MESSAGE value="819. Most Common Word" />
     <MESSAGE value="Unwanted files removed" />
     <MESSAGE value="A new techniques added" />
-    <option name="LAST_COMMIT_MESSAGE" value="A new techniques added" />
+    <MESSAGE value="104. Maximum Depth of Binary Tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="104. Maximum Depth of Binary Tree" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -766,8 +779,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/maximum_subarray.js" />
-    <entry file="file://$PROJECT_DIR$/k_equal_sum_subsets.js" />
     <entry file="file://$PROJECT_DIR$/sum_of_square_numbers.js" />
     <entry file="file://$PROJECT_DIR$/rotate_array.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -1007,13 +1018,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/split_array_largest_sum.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/split_array_largest_sum.js" />
     <entry file="file://$PROJECT_DIR$/word_break.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="332">
@@ -1049,11 +1054,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/middle_of_the_linked_list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="34" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/merge_k_sorted_lists.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="205">
-            <caret line="14" column="460" selection-start-line="14" selection-start-column="460" selection-end-line="14" selection-end-column="460" />
+          <first_editor relative-caret-position="170">
+            <caret line="14" column="456" selection-start-line="14" selection-start-column="456" selection-end-line="14" selection-end-column="456" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
