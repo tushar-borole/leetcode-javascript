@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="Unwanted files removed">
-      <change afterPath="$PROJECT_DIR$/longest_palindromic_substring.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/longest_palindromic_substring_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/container_with_most_water.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linked_list.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/merge_k_sorted_lists.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/word_break.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/merge_sorted_array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/priority_queue.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -20,38 +21,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/container_with_most_water.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="170">
-                <caret line="14" column="456" selection-start-line="14" selection-start-column="456" selection-end-line="14" selection-end-column="456" />
+              <first_editor relative-caret-position="194">
+                <caret line="15" column="312" selection-start-line="15" selection-start-column="312" selection-end-line="15" selection-end-column="312" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
               </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/middle_of_the_linked_list.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="34" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/merge_k_sorted_lists.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -88,11 +77,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/third_maximum_number.js" />
-        <option value="$PROJECT_DIR$/top_k_frequent_elements.js" />
-        <option value="$PROJECT_DIR$/two_sum_II.js" />
-        <option value="$PROJECT_DIR$/duplicate_zeros.js" />
-        <option value="$PROJECT_DIR$/combination_sum.js" />
         <option value="$PROJECT_DIR$/combination_sum_II.js" />
         <option value="$PROJECT_DIR$/combination_sum_III.js" />
         <option value="$PROJECT_DIR$/maximum_subarray.js" />
@@ -137,7 +121,12 @@
         <option value="$PROJECT_DIR$/word_break.js" />
         <option value="$PROJECT_DIR$/maximum_depth_of_binary_tree.js" />
         <option value="$PROJECT_DIR$/middle_of_the_linked_list.js" />
+        <option value="$PROJECT_DIR$/linked_list.js" />
+        <option value="$PROJECT_DIR$/priority_queue.js" />
         <option value="$PROJECT_DIR$/merge_k_sorted_lists.js" />
+        <option value="$PROJECT_DIR$/merge_sorted_array.js" />
+        <option value="$PROJECT_DIR$/median_of_two_sorted_arrays.js" />
+        <option value="$PROJECT_DIR$/container_with_most_water.js" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -155,7 +144,7 @@
     <selected>-1</selected>
     <servers />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="y" value="173" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
@@ -290,14 +279,8 @@
       <workItem from="1562874324913" duration="968000" />
       <workItem from="1562963054411" duration="1226000" />
       <workItem from="1563249917020" duration="6810000" />
-      <workItem from="1563331594823" duration="1023000" />
-    </task>
-    <task id="LOCAL-00059" summary="74. Search a 2D Matrix">
-      <created>1560925755380</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1560925755380</updated>
+      <workItem from="1563331594823" duration="8603000" />
+      <workItem from="1563500483599" duration="1232000" />
     </task>
     <task id="LOCAL-00060" summary="590. N-ary Tree Postorder Traversal">
       <created>1561000021782</created>
@@ -635,17 +618,24 @@
       <option name="project" value="LOCAL" />
       <updated>1563258214484</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="Readme reformatted">
+      <created>1563332792880</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1563332792880</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="289761000" />
+    <option name="totallyTimeSpent" value="298573000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29951102" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2991453" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Storybook" order="3" side_tool="true" />
@@ -657,7 +647,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" />
-      <window_info active="true" anchor="bottom" id="Quokka" order="8" visible="true" weight="0.1431557" />
+      <window_info anchor="bottom" id="Quokka" order="8" visible="true" weight="0.14211076" />
       <window_info anchor="bottom" id="JIRA" order="9" />
       <window_info anchor="bottom" id="AWS Tail" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -720,7 +710,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
-    <MESSAGE value="Factorial" />
     <MESSAGE value="80. Remove Duplicates from Sorted Array II" />
     <MESSAGE value="387. First Unique Character in a String" />
     <MESSAGE value="78. Subsets" />
@@ -745,7 +734,8 @@
     <MESSAGE value="Unwanted files removed" />
     <MESSAGE value="A new techniques added" />
     <MESSAGE value="104. Maximum Depth of Binary Tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="104. Maximum Depth of Binary Tree" />
+    <MESSAGE value="Readme reformatted" />
+    <option name="LAST_COMMIT_MESSAGE" value="Readme reformatted" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -779,23 +769,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sum_of_square_numbers.js" />
-    <entry file="file://$PROJECT_DIR$/rotate_array.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/permutation_sequence.js" />
-    <entry file="file://$PROJECT_DIR$/combination_sum_II.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3Sum.js" />
     <entry file="file://$PROJECT_DIR$/combination_sum_III.js" />
     <entry file="file://$PROJECT_DIR$/factorial.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -884,16 +857,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graph.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -990,13 +953,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/longest_palindromic_substring.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/longest_palindromic_substring.js" />
     <entry file="file://$PROJECT_DIR$/minimum_window_substring.js" />
     <entry file="file://$PROJECT_DIR$/k_distinct_characters.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -1019,13 +976,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/split_array_largest_sum.js" />
-    <entry file="file://$PROJECT_DIR$/word_break.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/word_break.js" />
     <entry file="file://$PROJECT_DIR$/permutations.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="118">
@@ -1056,7 +1007,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/middle_of_the_linked_list.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
+        <state relative-caret-position="128">
           <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="34" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -1064,18 +1015,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/graph.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/priority_queue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/merge_k_sorted_lists.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        <state relative-caret-position="312">
+          <caret line="70" column="34" lean-forward="true" selection-start-line="70" selection-start-column="34" selection-end-line="70" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/merge_sorted_array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/median_of_two_sorted_arrays.js" />
+    <entry file="file://$PROJECT_DIR$/linked_list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="63" column="34" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/container_with_most_water.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="170">
-            <caret line="14" column="456" selection-start-line="14" selection-start-column="456" selection-end-line="14" selection-end-column="456" />
+          <first_editor relative-caret-position="194">
+            <caret line="15" column="312" selection-start-line="15" selection-start-column="312" selection-end-line="15" selection-end-column="312" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
