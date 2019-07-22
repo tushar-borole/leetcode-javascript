@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="Unwanted files removed">
-      <change afterPath="$PROJECT_DIR$/linked_list.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/merge_k_sorted_lists.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/merge_sorted_array.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/priority_queue.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reverse_string.js" afterDir="false" />
+    <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/swap_nodes_in_pairs.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -23,10 +19,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/reverse_string.js">
+        <entry file="file://$PROJECT_DIR$/swap_nodes_in_pairs.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            <state>
+              <caret selection-start-column="3" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -35,8 +31,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="150">
-                <caret line="10" column="327" selection-start-line="10" selection-start-column="327" selection-end-line="10" selection-end-column="327" />
+              <first_editor relative-caret-position="391">
+                <caret line="88" column="408" selection-start-line="88" selection-start-column="408" selection-end-line="88" selection-end-column="408" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -66,6 +62,7 @@
       <find>start++</find>
       <find>left++</find>
       <find>level</find>
+      <find>344</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -77,7 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/rotate_array.js" />
         <option value="$PROJECT_DIR$/permutation_sequence.js" />
         <option value="$PROJECT_DIR$/permutations.js" />
         <option value="$PROJECT_DIR$/3Sum.js" />
@@ -127,6 +123,7 @@
         <option value="$PROJECT_DIR$/pascal_triangle.js" />
         <option value="$PROJECT_DIR$/validate_binary_search_tree.js" />
         <option value="$PROJECT_DIR$/reverse_string.js" />
+        <option value="$PROJECT_DIR$/swap_nodes_in_pairs.js" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -281,14 +278,7 @@
       <workItem from="1563249917020" duration="6810000" />
       <workItem from="1563331594823" duration="8603000" />
       <workItem from="1563500483599" duration="5040000" />
-      <workItem from="1563726089103" duration="4130000" />
-    </task>
-    <task id="LOCAL-00062" summary="922. Sort Array By Parity II">
-      <created>1561010737461</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1561010737464</updated>
+      <workItem from="1563726089103" duration="7721000" />
     </task>
     <task id="LOCAL-00063" summary="35. Search Insert Position">
       <created>1561187342444</created>
@@ -626,11 +616,18 @@
       <option name="project" value="LOCAL" />
       <updated>1563727958116</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="Reverse String added">
+      <created>1563758022673</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1563758022674</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="306511000" />
+    <option name="totallyTimeSpent" value="310102000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
@@ -648,7 +645,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" />
-      <window_info anchor="bottom" id="Quokka" order="8" visible="true" weight="0.14106584" />
+      <window_info anchor="bottom" id="Quokka" order="8" visible="true" weight="0.37304077" />
       <window_info anchor="bottom" id="JIRA" order="9" />
       <window_info anchor="bottom" id="AWS Tail" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -711,7 +708,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
-    <MESSAGE value="78. Subsets" />
     <MESSAGE value="151. Reverse Words in a String" />
     <MESSAGE value="647. Palindromic Substrings" />
     <MESSAGE value="680. Valid Palindrome II" />
@@ -736,7 +732,8 @@
     <MESSAGE value="Readme reformatted" />
     <MESSAGE value="Container with most water added" />
     <MESSAGE value="941. Valid Mountain Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="941. Valid Mountain Array" />
+    <MESSAGE value="Reverse String added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reverse String added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -770,13 +767,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/reverse_words_in_string.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/word_ladder.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
@@ -1074,11 +1064,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/swap_nodes_in_pairs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-start-column="3" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="10" column="327" selection-start-line="10" selection-start-column="327" selection-end-line="10" selection-end-column="327" />
+          <first_editor relative-caret-position="391">
+            <caret line="88" column="408" selection-start-line="88" selection-start-column="408" selection-end-line="88" selection-end-column="408" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
