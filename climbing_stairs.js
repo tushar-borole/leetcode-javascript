@@ -24,10 +24,10 @@ var climbStairs = function(n, memo = []) {
     return memo[n];
   }
 
-  const left = climbStairs(n - 1, memo);
+  const left = climbStairs(n - 1, memo); //?
   const right = climbStairs(n - 2, memo);
   memo[n] = left + right;
   return memo[n];
 };
 
-climbStairs(38);
+climbStairs(6); //?

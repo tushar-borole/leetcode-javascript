@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/climbing_stairs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_time_to_buy_and_sell_stock_II.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/climbing_stairs.js" beforeDir="false" afterPath="$PROJECT_DIR$/climbing_stairs.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -169,14 +169,9 @@
       <workItem from="1563331594823" duration="8603000" />
       <workItem from="1563500483599" duration="5040000" />
       <workItem from="1563726089103" duration="8463000" />
-      <workItem from="1563849747964" duration="1468000" />
-    </task>
-    <task id="LOCAL-00064" summary="35. Search Insert Position">
-      <created>1561187434995</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1561187434995</updated>
+      <workItem from="1563849747964" duration="1805000" />
+      <workItem from="1563855058534" duration="776000" />
+      <workItem from="1563944608856" duration="1573000" />
     </task>
     <task id="LOCAL-00065" summary="540. Single Element in a Sorted Array">
       <created>1561235490712</created>
@@ -514,7 +509,14 @@
       <option name="project" value="LOCAL" />
       <updated>1563767876978</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="70. Climbing Stairs">
+      <created>1563852406484</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1563852406484</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -535,7 +537,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -543,7 +547,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
-    <MESSAGE value="647. Palindromic Substrings" />
     <MESSAGE value="680. Valid Palindrome II" />
     <MESSAGE value="Graph" />
     <MESSAGE value="415. Add Strings" />
@@ -568,7 +571,8 @@
     <MESSAGE value="941. Valid Mountain Array" />
     <MESSAGE value="Reverse String added" />
     <MESSAGE value="24. Swap Nodes in Pairs" />
-    <option name="LAST_COMMIT_MESSAGE" value="24. Swap Nodes in Pairs" />
+    <MESSAGE value="70. Climbing Stairs" />
+    <option name="LAST_COMMIT_MESSAGE" value="70. Climbing Stairs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
