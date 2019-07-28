@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/best_time_to_buy_and_sell_stock_II.js" afterDir="false" />
+    <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="122. Best Time to Buy and Sell Stock II">
+      <change afterPath="$PROJECT_DIR$/valid_sudoku.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/climbing_stairs.js" beforeDir="false" afterPath="$PROJECT_DIR$/climbing_stairs.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -171,14 +170,11 @@
       <workItem from="1563726089103" duration="8463000" />
       <workItem from="1563849747964" duration="1805000" />
       <workItem from="1563855058534" duration="776000" />
-      <workItem from="1563944608856" duration="1573000" />
-    </task>
-    <task id="LOCAL-00065" summary="540. Single Element in a Sorted Array">
-      <created>1561235490712</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1561235490712</updated>
+      <workItem from="1563944608856" duration="4642000" />
+      <workItem from="1564027611888" duration="2416000" />
+      <workItem from="1564108354064" duration="2084000" />
+      <workItem from="1564204410346" duration="1033000" />
+      <workItem from="1564274924768" duration="672000" />
     </task>
     <task id="LOCAL-00066" summary="686. Repeated String Match">
       <created>1561265709874</created>
@@ -516,7 +512,14 @@
       <option name="project" value="LOCAL" />
       <updated>1563852406484</updated>
     </task>
-    <option name="localTasksCounter" value="114" />
+    <task id="LOCAL-00114" summary="122. Best Time to Buy and Sell Stock II">
+      <created>1563947281024</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1563947281024</updated>
+    </task>
+    <option name="localTasksCounter" value="115" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -547,7 +550,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
-    <MESSAGE value="680. Valid Palindrome II" />
     <MESSAGE value="Graph" />
     <MESSAGE value="415. Add Strings" />
     <MESSAGE value="121. Best Time to Buy and Sell Stock" />
@@ -572,7 +574,8 @@
     <MESSAGE value="Reverse String added" />
     <MESSAGE value="24. Swap Nodes in Pairs" />
     <MESSAGE value="70. Climbing Stairs" />
-    <option name="LAST_COMMIT_MESSAGE" value="70. Climbing Stairs" />
+    <MESSAGE value="122. Best Time to Buy and Sell Stock II" />
+    <option name="LAST_COMMIT_MESSAGE" value="122. Best Time to Buy and Sell Stock II" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
