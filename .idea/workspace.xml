@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="122. Best Time to Buy and Sell Stock II">
-      <change afterPath="$PROJECT_DIR$/valid_sudoku.js" afterDir="false" />
+    <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/rotate_image.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -18,24 +18,6 @@
         <option value="JavaScript File" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>toLo</find>
-      <find>depth = counter</find>
-      <find>.children</find>
-      <find>.sort(</find>
-      <find>openStack</find>
-      <find>WORD LA</find>
-      <find>TreeNode</find>
-      <find>start++</find>
-      <find>left++</find>
-      <find>level</find>
-      <find>344</find>
-    </findStrings>
-    <dirStrings>
-      <dir>$PROJECT_DIR$</dir>
-    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -174,14 +156,9 @@
       <workItem from="1564027611888" duration="2416000" />
       <workItem from="1564108354064" duration="2084000" />
       <workItem from="1564204410346" duration="1033000" />
-      <workItem from="1564274924768" duration="672000" />
-    </task>
-    <task id="LOCAL-00066" summary="686. Repeated String Match">
-      <created>1561265709874</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1561265709874</updated>
+      <workItem from="1564274924768" duration="830000" />
+      <workItem from="1564550239805" duration="632000" />
+      <workItem from="1564637706835" duration="991000" />
     </task>
     <task id="LOCAL-00067" summary="1013. Partition Array Into Three Parts With Equal Sum">
       <created>1561268331519</created>
@@ -519,7 +496,14 @@
       <option name="project" value="LOCAL" />
       <updated>1563947281024</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <task id="LOCAL-00115" summary="122. Best Time to Buy and Sell Stock II">
+      <created>1564275659840</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1564275659841</updated>
+    </task>
+    <option name="localTasksCounter" value="116" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
