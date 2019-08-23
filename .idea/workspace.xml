@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/serialize_and_deserialize_binary_tree.js" afterDir="false" />
+    <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="297. Serialize and Deserialize Binary Tree">
+      <change afterPath="$PROJECT_DIR$/string_compression.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -167,14 +167,9 @@
       <workItem from="1565906012552" duration="5415000" />
       <workItem from="1566270113331" duration="3394000" />
       <workItem from="1566331978647" duration="78000" />
-      <workItem from="1566342664649" duration="3355000" />
-    </task>
-    <task id="LOCAL-00071" summary="347. Top K Frequent Elements">
-      <created>1561353216930</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1561353216930</updated>
+      <workItem from="1566342664649" duration="3559000" />
+      <workItem from="1566441113403" duration="2364000" />
+      <workItem from="1566524942662" duration="6837000" />
     </task>
     <task id="LOCAL-00072" summary="167. Two Sum II - Input array is sorted">
       <created>1561443024643</created>
@@ -512,7 +507,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565991368793</updated>
     </task>
-    <option name="localTasksCounter" value="120" />
+    <task id="LOCAL-00120" summary="297. Serialize and Deserialize Binary Tree">
+      <created>1566367816448</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1566367816449</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -543,7 +545,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
-    <MESSAGE value="64. Minimum Path Sum" />
     <MESSAGE value="css added" />
     <MESSAGE value="css width changed" />
     <MESSAGE value="Style css added" />
@@ -568,7 +569,8 @@
     <MESSAGE value="1122. Relative Sort Array" />
     <MESSAGE value="67. Add Binary" />
     <MESSAGE value="146. LRU Cache" />
-    <option name="LAST_COMMIT_MESSAGE" value="146. LRU Cache" />
+    <MESSAGE value="297. Serialize and Deserialize Binary Tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="297. Serialize and Deserialize Binary Tree" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
