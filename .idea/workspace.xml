@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="443. String Compression">
+    <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/two_sum.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string_compression.js" beforeDir="false" afterPath="$PROJECT_DIR$/string_compression.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -168,14 +169,8 @@
       <workItem from="1566331978647" duration="78000" />
       <workItem from="1566342664649" duration="3559000" />
       <workItem from="1566441113403" duration="2364000" />
-      <workItem from="1566524942662" duration="7052000" />
-    </task>
-    <task id="LOCAL-00073" summary="1089. Duplicate Zeros">
-      <created>1561444816196</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1561444816196</updated>
+      <workItem from="1566524942662" duration="7227000" />
+      <workItem from="1566770376760" duration="736000" />
     </task>
     <task id="LOCAL-00074" summary="39. Combination Sum">
       <created>1561516057413</created>
@@ -513,7 +508,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566538934775</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary="Code imporved">
+      <created>1566539160231</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1566539160231</updated>
+    </task>
+    <option name="localTasksCounter" value="123" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -544,7 +546,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
-    <MESSAGE value="css width changed" />
     <MESSAGE value="Style css added" />
     <MESSAGE value="css changed" />
     <MESSAGE value="Code cleaned" />
@@ -569,7 +570,8 @@
     <MESSAGE value="146. LRU Cache" />
     <MESSAGE value="297. Serialize and Deserialize Binary Tree" />
     <MESSAGE value="443. String Compression" />
-    <option name="LAST_COMMIT_MESSAGE" value="443. String Compression" />
+    <MESSAGE value="Code imporved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code imporved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
