@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="152. Maximum Product Subarray">
-      <change afterPath="$PROJECT_DIR$/decode_string.js" afterDir="false" />
+    <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/longest_continuous_increasing_subsequence.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -177,14 +177,8 @@
       <workItem from="1567571574014" duration="2277000" />
       <workItem from="1567660770056" duration="135000" />
       <workItem from="1568263003586" duration="124000" />
-      <workItem from="1568510084292" duration="8456000" />
-    </task>
-    <task id="LOCAL-00077" summary="189. Rotate Array">
-      <created>1561616278761</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1561616278765</updated>
+      <workItem from="1568510084292" duration="8735000" />
+      <workItem from="1568687725326" duration="1138000" />
     </task>
     <task id="LOCAL-00078" summary="46. Permutations">
       <created>1561621577719</created>
@@ -522,7 +516,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567575249390</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary="394. Decode String">
+      <created>1568575967475</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1568575967476</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -553,7 +554,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
-    <MESSAGE value="3. Longest Substring Without Repeating Characters" />
     <MESSAGE value="137. Single Number II" />
     <MESSAGE value="Given a string, find the length of the longest substring T that contains at most k distinct characters.&#10;&#10;Example 1:&#10;&#10;Input: s = &quot;eceba&quot;, k = 2&#10;Output: 3&#10;Explanation: T is &quot;ece&quot; which its length is 3.&#10;Example 2:&#10;&#10;Input: s = &quot;aa&quot;, k = 1&#10;Output: 2&#10;Explanation: T is &quot;aa&quot; which its length is 2." />
     <MESSAGE value="340. Longest Substring with At Most K Distinct Characters" />
@@ -578,7 +578,8 @@
     <MESSAGE value="1. Two Sum" />
     <MESSAGE value="238. Product of Array Except Self" />
     <MESSAGE value="152. Maximum Product Subarray" />
-    <option name="LAST_COMMIT_MESSAGE" value="152. Maximum Product Subarray" />
+    <MESSAGE value="394. Decode String" />
+    <option name="LAST_COMMIT_MESSAGE" value="394. Decode String" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
