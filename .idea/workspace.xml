@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/decode_ways.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sum_of_digits_in_the_minimum_number.js" afterDir="false" />
+    <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="76. Minimum Window Substring">
+      <change afterPath="$PROJECT_DIR$/minimum_window_substring.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -181,14 +179,10 @@
       <workItem from="1568510084292" duration="8735000" />
       <workItem from="1568687725326" duration="1993000" />
       <workItem from="1568846116907" duration="595000" />
-      <workItem from="1568847480923" duration="516000" />
-    </task>
-    <task id="LOCAL-00079" summary="40. Combination Sum II">
-      <created>1561847198469</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1561847198469</updated>
+      <workItem from="1568847480923" duration="1806000" />
+      <workItem from="1568950157014" duration="1165000" />
+      <workItem from="1569018823828" duration="7633000" />
+      <workItem from="1569292086983" duration="1046000" />
     </task>
     <task id="LOCAL-00080" summary="40. Combination Sum II">
       <created>1561848276830</created>
@@ -526,7 +520,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568697079672</updated>
     </task>
-    <option name="localTasksCounter" value="128" />
+    <task id="LOCAL-00128" summary="1085. Sum of Digits in the Minimum Number">
+      <created>1568848027707</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1568848027707</updated>
+    </task>
+    <option name="localTasksCounter" value="129" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -557,8 +558,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
-    <MESSAGE value="137. Single Number II" />
-    <MESSAGE value="Given a string, find the length of the longest substring T that contains at most k distinct characters.&#10;&#10;Example 1:&#10;&#10;Input: s = &quot;eceba&quot;, k = 2&#10;Output: 3&#10;Explanation: T is &quot;ece&quot; which its length is 3.&#10;Example 2:&#10;&#10;Input: s = &quot;aa&quot;, k = 1&#10;Output: 2&#10;Explanation: T is &quot;aa&quot; which its length is 2." />
     <MESSAGE value="340. Longest Substring with At Most K Distinct Characters" />
     <MESSAGE value="819. Most Common Word" />
     <MESSAGE value="Unwanted files removed" />
@@ -582,7 +581,9 @@
     <MESSAGE value="238. Product of Array Except Self" />
     <MESSAGE value="152. Maximum Product Subarray" />
     <MESSAGE value="394. Decode String" />
-    <option name="LAST_COMMIT_MESSAGE" value="394. Decode String" />
+    <MESSAGE value="1085. Sum of Digits in the Minimum Number" />
+    <MESSAGE value="76. Minimum Window Substring" />
+    <option name="LAST_COMMIT_MESSAGE" value="76. Minimum Window Substring" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
