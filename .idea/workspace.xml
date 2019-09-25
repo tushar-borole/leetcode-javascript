@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="76. Minimum Window Substring">
-      <change afterPath="$PROJECT_DIR$/minimum_window_substring.js" afterDir="false" />
+    <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/spiral_matrix.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,6 +78,16 @@
     <configuration name="run" type="NodeJSConfigurationType" path-to-js-file="same_tree.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -183,13 +194,8 @@
       <workItem from="1568950157014" duration="1165000" />
       <workItem from="1569018823828" duration="7633000" />
       <workItem from="1569292086983" duration="1046000" />
-    </task>
-    <task id="LOCAL-00080" summary="40. Combination Sum II">
-      <created>1561848276830</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1561848276830</updated>
+      <workItem from="1569293216237" duration="409000" />
+      <workItem from="1569383340723" duration="1745000" />
     </task>
     <task id="LOCAL-00081" summary="Factorial">
       <created>1561915730983</created>
@@ -527,7 +533,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568848027707</updated>
     </task>
-    <option name="localTasksCounter" value="129" />
+    <task id="LOCAL-00129" summary="76. Minimum Window Substring">
+      <created>1569293247965</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1569293247965</updated>
+    </task>
+    <option name="localTasksCounter" value="130" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
