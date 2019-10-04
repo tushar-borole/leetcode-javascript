@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/min_cost_climbing_stairs.js" afterDir="false" />
+    <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="746. Min Cost Climbing Stairs">
+      <change afterPath="$PROJECT_DIR$/add_two_numbers.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/reverse_substrings.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
@@ -197,14 +197,9 @@
       <workItem from="1569292086983" duration="1046000" />
       <workItem from="1569293216237" duration="409000" />
       <workItem from="1569383340723" duration="2037000" />
-      <workItem from="1569465944542" duration="3086000" />
-    </task>
-    <task id="LOCAL-00082" summary="80. Remove Duplicates from Sorted Array II">
-      <created>1561917366618</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1561917366618</updated>
+      <workItem from="1569465944542" duration="3626000" />
+      <workItem from="1570146533670" duration="787000" />
+      <workItem from="1570226195937" duration="1861000" />
     </task>
     <task id="LOCAL-00083" summary="387. First Unique Character in a String">
       <created>1561920065349</created>
@@ -542,7 +537,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569385641071</updated>
     </task>
-    <option name="localTasksCounter" value="131" />
+    <task id="LOCAL-00131" summary="746. Min Cost Climbing Stairs">
+      <created>1569783809774</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1569783809774</updated>
+    </task>
+    <option name="localTasksCounter" value="132" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -573,7 +575,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
-    <MESSAGE value="819. Most Common Word" />
     <MESSAGE value="Unwanted files removed" />
     <MESSAGE value="A new techniques added" />
     <MESSAGE value="104. Maximum Depth of Binary Tree" />
@@ -598,7 +599,8 @@
     <MESSAGE value="1085. Sum of Digits in the Minimum Number" />
     <MESSAGE value="76. Minimum Window Substring" />
     <MESSAGE value="54. Spiral Matrix" />
-    <option name="LAST_COMMIT_MESSAGE" value="54. Spiral Matrix" />
+    <MESSAGE value="746. Min Cost Climbing Stairs" />
+    <option name="LAST_COMMIT_MESSAGE" value="746. Min Cost Climbing Stairs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
