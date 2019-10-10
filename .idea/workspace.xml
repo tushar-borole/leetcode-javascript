@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef1b4119-997f-4fe1-90db-793863075a8c" name="Default Changelist" comment="746. Min Cost Climbing Stairs">
-      <change afterPath="$PROJECT_DIR$/add_two_numbers.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/reverse_substrings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subdomain_visit_count.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -199,14 +199,8 @@
       <workItem from="1569383340723" duration="2037000" />
       <workItem from="1569465944542" duration="3626000" />
       <workItem from="1570146533670" duration="787000" />
-      <workItem from="1570226195937" duration="1861000" />
-    </task>
-    <task id="LOCAL-00083" summary="387. First Unique Character in a String">
-      <created>1561920065349</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1561920065349</updated>
+      <workItem from="1570226195937" duration="2013000" />
+      <workItem from="1570744919854" duration="1293000" />
     </task>
     <task id="LOCAL-00084" summary="78. Subsets">
       <created>1561950721752</created>
@@ -544,7 +538,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569783809774</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <task id="LOCAL-00132" summary="2. Add Two Numbers">
+      <created>1570228845314</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1570228845314</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -575,7 +576,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
-    <MESSAGE value="Unwanted files removed" />
     <MESSAGE value="A new techniques added" />
     <MESSAGE value="104. Maximum Depth of Binary Tree" />
     <MESSAGE value="Readme reformatted" />
@@ -600,7 +600,8 @@
     <MESSAGE value="76. Minimum Window Substring" />
     <MESSAGE value="54. Spiral Matrix" />
     <MESSAGE value="746. Min Cost Climbing Stairs" />
-    <option name="LAST_COMMIT_MESSAGE" value="746. Min Cost Climbing Stairs" />
+    <MESSAGE value="2. Add Two Numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="2. Add Two Numbers" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
